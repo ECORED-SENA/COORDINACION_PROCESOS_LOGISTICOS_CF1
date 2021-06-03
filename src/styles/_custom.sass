@@ -1,0 +1,51 @@
+/*.bloque-texto-b i:last-of-type
+  vertical-align: top*/
+
+$azulClarito: #47a0e6
+$azulOscuro: #0f2771
+$gradiente1: $azulClarito 0%, $azulOscuro 100%
+@mixin gradient($direction, $list)
+  background: -webkit-linear-gradient($direction, $list)
+  background: -moz-linear-gradient($direction, $list)
+  background: -o-linear-gradient($direction, $list)
+  background: linear-gradient($direction, $list)
+
+.g1
+  @include gradient(180deg, $gradiente1)
+
+.fondo-purpura-clarito
+  background-color: #7D6EB20D
+
+.bloque-bicolor-ac
+  background-color: #BDD0FB
+  
+.fondo-azul-clarito
+  background-color: #57DBD826 !important
+
+.fondo-cyan
+  background-color: #91B3Fa40 !important
+
+.fondo-rojizo-clarito
+  background-color: #FE706240 !important
+
+.fondo-casi-blanco
+  background-color: #f6f6f6 !important
+
+.tfilathin
+  width: 8.5em !important
+
+.titulo-segundo-cab
+  &:after
+    content: ''
+    display: block
+    height: 3px
+    width: 140px
+    border-left: solid 50px $color-acento-botones !important
+    background-color: #e8e8e8
+
+.cab-color
+  color: $color-acento-botones !important
+
+._93px
+  width: 93px !important
+  height: auto
