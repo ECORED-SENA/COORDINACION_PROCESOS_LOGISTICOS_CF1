@@ -1,5 +1,5 @@
-/*.bloque-texto-b i:last-of-type
-  vertical-align: top*/
+.bloque-texto-b i:last-of-type
+  vertical-align: middle
 
 $azulClarito: #47a0e6
 $azulOscuro: #0f2771
@@ -18,6 +18,15 @@ $gradiente1: $azulClarito 0%, $azulOscuro 100%
 
 .bloque-bicolor-ac
   background-color: #BDD0FB
+  &::before
+    background-color: #F3F9FFF2
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 50%
   
 .fondo-azul-clarito
   background-color: #57DBD826 !important
@@ -49,3 +58,33 @@ $gradiente1: $azulClarito 0%, $azulOscuro 100%
 ._93px
   width: 93px !important
   height: auto
+
+._4060
+  th
+    width: 40%
+  td
+    width: 60%
+
+.tarjeta-avatar-tr
+  display: flex
+  img
+    min-width: 60px
+    max-width: 60px
+    position: relative
+
+.transparent1
+  border-top: 1px solid #afafaf
+  border-bottom: 1px solid #afafaf
+  border-radius: 0 !important
+.transparent2
+  border-bottom: 1px solid #afafaf
+  border-radius: 0 !important
+
+.bloque-texto-cac
+  &::before
+    background-color: #57DBD840 !important
+
+.borde-cab
+  border-color: #FE7062 !important
+  background-color: #fe7062 !important
+  border-bottom: 2px solid #FE7062 !important

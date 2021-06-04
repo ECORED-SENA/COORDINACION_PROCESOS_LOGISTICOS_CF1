@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Cadena de suministros
-    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.bloque-bicolor-ac.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           img(src='@/assets/curso/tema1/f1.svg', alt='T1-F1')

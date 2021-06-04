@@ -68,7 +68,7 @@ export default {
             titulo: 'Clasificación de macroprocesos',
             hash: 't_1_7',
           },
-          {
+          /*{
             icono: 'far fa-file-alt',
             numero: '1.8',
             titulo:
@@ -80,7 +80,7 @@ export default {
             numero: '1.9',
             titulo: 'Modelos de gestión de la cadena de abastecimiento',
             hash: 't_1_9',
-          },
+          },*/
         ],
       },
       {
@@ -188,12 +188,6 @@ export default {
         titulo: 'Evaluación de la cadena de suministros',
         desarrolloContenidos: true,
         subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Benchmarking qué es, cómo funciona, utilidad',
-            hash: 't_4_1',
-          },
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
