@@ -340,7 +340,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo Front-End',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
@@ -358,134 +358,187 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Anaya, J. J. (2015). Logística integral: la gestión operativa de la empresa. ESIC Editorial.',
+    },
+    {
+      referencia:
+        'Ballou, R. (2004). Logística. Administración de la cadena de suministro. Pearson Educación.',
+    },
+    {
+      referencia:
+        'Bautista S., H., Martínez F., J. L., y Fernández L., G. (2015). Modelo de integración de cadenas de suministro colaborativas. Dyna, 82,(193), 145 - 154.',
+    },
+    {
+      referencia:
+        'Castellanos, A. (2015). Logística comercial internacional. Ecoe Ediciones.',
+    },
+    {
+      referencia:
+        'Council of Supply Chain Management Professionals (CSCMP). (s.f.). CSCMP Supply Chain Management Definitions and Glossary.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://cscmp.org/CSCMP/Academia/SCM_Definitions_and_Glossary_of_Terms/CSCMP/Educate/SCM_Definitions_and_Glossary_of_Terms.aspx?hkey=60879588-f65f-4ab5-8c4b-6878815ef921',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'David, F. (2013). Conceptos de administración estratégica. Pearson Educación.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5029&pg=30',
+    },
+    {
+      referencia: 'Diario del Exportador. (2020). Diario del Exportador.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.diariodelexportador.com/2016/01/benchmarking-punto-clave-en-el-plan-de.html',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Granillo M., R., Hernández L., L., y Santana R. F. (2013). Integración S&OP-CPFR. Congreso Internacional de Logística y Cadena de Suministro. Sanfandila, Querétaro.',
+    },
+    {
+      referencia: 'ISO. (2020).',
+      link: 'https://www.iso.org/standards.html',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        "Mecalux. (2019). ¿Qué es la 'supply chain' o cadena de suministro? Definición y diferencias con la logística. Mecalux.",
+    },
+    {
+      referencia:
+        'Mecalux. (2019). La importancia de los sistemas de trazabilidad en logística. Mecalux.',
+    },
+    {
+      referencia:
+        'Mora, L. A. (2008). Indicadores de la gestión logística - KPI. Ecoe Ediciones.',
+    },
+    {
+      referencia:
+        'Mora, L. A. (2010). Gestión logística integral: Las mejores prácticas en la cadena de abastecimientos. Ecoe Ediciones.',
+    },
+    {
+      referencia:
+        'Núñez C., A., y López P., J. (2015). La logística en la empresa: un área estratégica para alcanzar ventajas competitivas. Ediciones Pirámide.',
+    },
+    {
+      referencia:
+        'Ocampo V., P. (2009). Gerencia logística y global. Revista Escuela de Administración de Negocios, (66), 113 - 136.',
+    },
+    {
+      referencia:
+        'Porter, M. (1991). Ventaja competitiva. Creación y sostenimiento de un desempeño superior. Rei Argentina S.A.',
+    },
+    {
+      referencia:
+        'Quintero, J., y Sánchez, J. (2006). La cadena de valor: Una herramienta del pensamiento estratégico. Revista de Estudios Interdisciplinarios en Ciencias Sociales. Telos, 8(3), 377 - 389.',
+    },
+    {
+      referencia:
+        'Revista de Logística Legis. (2016). Creación y valor agregado a partir de la gestión de la cadena de suministro.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://revistadelogistica.com/actualidad/creacion-y-valor-agregado-a-partir-de-la-gestion-de-la-cadena-de-suministro/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Revista de Logística Legis. (2016). La logística después de la logística. Obtenido de Revista de Logística Legis:',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://revistadelogistica.com/actualidad/la-logistica-despues-de-la-logistica/',
+    },
+    {
+      referencia: 'Riveros P., G. (2015). Marketing logístico. Ecoe Ediciones.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Robusté, F., y Galván, D. (2005). e-Logistics. Edicions UPC.',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Rojas L., M., Guisao G., E., y Cano A., J. (2011). Logística integral. Una propuesta práctica para su negocio. Ediciones de la U.',
+    },
+    {
+      referencia:
+        'Universidad Tecnológica de Chile. (2017). Logística y distribución. Santiago de Chile.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Almacén',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Lugar o espacio físico para el almacenaje de bienes dentro de la cadena de suministro. Los almacenes son una infraestructura imprescindible para la actividad de todo tipo de agentes económicos (agricultores, ganaderos, mineros, industriales, transportistas, importadores, exportadores, comerciantes, intermediarios, consumidores finales, etc.)',
     },
     {
-      termino: 'Suftware',
+      termino: 'Apiladores',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Herramienta de ayuda en cualquier empresa, que es muy eficaz para elevar, bajar y transportar cargas.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Aprovisionamiento',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Función que depende de la gestión del departamento de compras y que es responsable del flujo óptimo de las mercancías. ',
     },
     {
-      termino: 'Áectores',
+      termino: 'Canal de distribución',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Conducto que define la compañía por el cual se movilizan los productos desde el lugar donde se producen hasta los consumidores finales.',
     },
     {
-      termino: 'Moda',
+      termino: 'Diamante del peligro',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Creado por la NFPA (National Fire Protection Association), es una entidad internacional voluntaria que fue creada con el fin de promover activamente la protección y prevención contra el fuego, dicha entidad es ampliamente conocida por sus estándares (National Fire Codes), a través de los cuales recomienda prácticas seguras desarrolladas por personal especializado y experto en el control de incendios y se utiliza para comunicar los peligros de los materiales peligrosos.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Distribución',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'En logística se define este proceso como la acción de poner a disposición los productos para su consumo, en la cantidad demandada, el momento en que lo necesite y en el lugar acordado.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Ergonomía',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es la disciplina tecnológica que trata del diseño de lugares de trabajo, herramientas y tareas que coinciden con las características fisiológicas, anatómicas, psicológicas y las capacidades del trabajador. Busca la optimización de los tres elementos del sistema (humano-máquina-ambiente), para lo cual elabora métodos de estudio de la persona, de la técnica y de la organización.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Etiquetado',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'El etiquetado garantiza a los consumidores la información completa sobre el contenido y la composición de un producto, a fin de proteger su salud y sus intereses. La etiqueta puede contener también información relativa a una característica determinada, como el origen del producto o el método de producción. Algunos alimentos son, además, objeto de una normativa específica, como los organismos modificados genéticamente, los alimentos alergénicos, los alimentos para bebés o determinadas bebidas.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Gestión logística',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es el proceso de planificación, implementación y control del flujo y almacenamiento eficiente y económico de la materia prima, productos semiterminados y acabados, así como la información asociada.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Inventario',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la lista organizada y codificada de los bienes que le pertenecen a la organización.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'KPI',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conocido también como indicador clave o medidor de desempeño o indicador clave de rendimiento, es una medida del nivel del rendimiento de un proceso. El valor del indicador está directamente relacionado con un objetivo fijado previamente y normalmente se expresa en valores porcentuales.',
+    },
+    {
+      termino: 'Logística',
+      significado:
+        'Proceso de planificar, ejecutar y controlar de manera efectiva y eficiente el flujo de materias primas, inventario en curso y producto terminado y el flujo de información desde el punto de origen hasta el punto de entrega y consumo.',
+    },
+    {
+      termino: 'Packing',
+      significado:
+        'Proceso de alistamiento y preparación de la carga referente a empaque y embalaje necesario para la expedición.',
+    },
+    {
+      termino: 'Picking',
+      significado:
+        'Proceso de recogida de material extrayendo unidades o conjuntos empaquetados de una unidad de empaquetado superior que contiene más unidades que las extraídas.',
+    },
+    {
+      termino: 'Supply Chain Mangement (SCM)',
+      significado:
+        'Conocida como Gestión de la Cadena de Suministro: involucra acciones de la gerencia de planeación, organización y control de las actividades de la cadena de suministro.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Robusté, F., y Galván, D. (2005). e-logistics. BEdicions UPC. ',
+      tipo: 'Lectura en línea',
+      link:
+        'https://books.google.com.co/books?hl=es&lr=&id=lkBpBgAAQBAJ&oi=fnd&pg=PP5&dq=E-Logistics&ots=7oQt1gVo44&sig=vGN0NQxATFGYV8ixC7Q_8sSAuoE&redir_esc=y#v=onepage&q=E-Logistics&f=false',
     },
   ],
 }
