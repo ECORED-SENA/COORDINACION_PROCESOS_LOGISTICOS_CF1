@@ -85,7 +85,7 @@
           span.texto-blanco Ir al sitio
           i.fas.fa-file-download.texto-blanco
           .indicador--click(v-if="mostrarIndicador")
-    .separador
+    .separador-custom
     #t_1_2.titulo-segundo-cab.mb-4
       h2 1.2. Conceptos generales
     p.mb-5 No se tiene un concepto general de la logística y cadena de suministros debido a que la literatura actual es extensa en relación con las definiciones sobre este término, algunas muy simples y otras más complejas que apuntan a un concepto integrador, sistémico y racionalizador que, fundamentalmente, se orientan a la satisfacción del cliente con los costos mínimos, con la calidad requerida, en el tiempo convenido y en la cantidad y lugar especificados por este. A continuación, se relacionan varios autores con el fin de ilustrar la gran variedad literaria con la que se cuenta:
@@ -102,7 +102,7 @@
     .col-lg-10.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4
         p.mb-0 Visto en otro contexto, la logística es la parte de la cadena de suministros que planifica, implementa y controla el flujo efectivo y eficiente, así como el almacenamiento de artículos y servicios y la información relacionada desde un punto de origen hasta  un punto de destino con el objetivo de satisfacer a los clientes. Por esta razón, la logística se convierte en uno de los factores más importantes de la competitividad, ya que puede definir el éxito o el fracaso de la comercialización de un producto.
-    .separador
+    .separador-custom
     #t_1_3.titulo-segundo-cab.mb-4
       h2 1.3. Importancia de la cadena de suministros
     p La importancia de la logística radica en la necesidad de mejorar el servicio a un cliente, optimizando la fase de mercadeo y transporte al menor costo posible:
@@ -136,11 +136,11 @@
             .p-4
               .h3 Desarrollo de sistemas de información TIC
               p Facilitar la información en tiempo real gracias a la utilización de software que permitan la comunicación entre las diferentes áreas.
-    .separador
+    .separador-custom
     #t_1_4.titulo-segundo-cab.mb-4
       h2 1.4.	Funciones de la cadena de suministros
     p Las funciones de la logística se basan, principalmente, en la administración de los flujos físicos (materias primas, productos terminados, etc.), teniendo en cuenta los recursos (humanos, consumibles, etc.), los bienes necesarios (almacenes, bodegas, herramientas, sistemas informáticos, camiones, etc.), y los servicios (transporte o almacenes subcontratados).
-    .separador
+    .separador-custom
     #t_1_5.titulo-segundo-cab.mb-4
       h2 1.5.	Responsabilidades en la cadena de suministros
     p.mb-5 Como se anotó anteriormente, la necesidad de las organizaciones de ser eficientes en la cadena de abastecimiento y competitivas en el mercado actual, ha ayudado a desarrollar el esquema logístico a nivel interno y con un acelerado crecimiento a nivel mundial. Entre las responsabilidades más importantes que motivan a las compañías a tecnificarse y a desarrollar intensamente su cadena logística se destacan:
@@ -150,7 +150,7 @@
     .col-lg-10.mx-auto
       img(src='@/assets/curso/tema1/f10.svg', alt='T1-F10').mb-4
       p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Universidad Tecnológica de Chile (2017)</span>
-    .separador
+    .separador-custom
     #t_1_6.titulo-segundo-cab.mb-4
       h2 1.6.	Clasificación de los subprocesos de la cadena de abastecimiento
     p Los elementos que conforman la logística a saber son tres (3) como se presentan a continuación:
@@ -173,7 +173,7 @@
         .tarjeta.fondo-purpura-clarito.p-4
           h5 Distribución
           p.mb-0 <b>Distribución física:</b> es la entr  ega de los productos terminados a los diferentes clientes.
-    .separador
+    .separador-custom
     #t_1_7.titulo-segundo-cab.mb-4
       h2 1.7.	Modelos de gestión de la cadena de abastecimiento
     p La importancia de tecnólogos o profesionales en el sector es cada vez mejor vista y más importante tal como lo dice Mora (2010):

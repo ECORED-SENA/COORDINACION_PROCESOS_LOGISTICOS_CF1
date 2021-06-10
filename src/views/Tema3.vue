@@ -7,7 +7,7 @@
         span 3
       h1 Integración de la cadena de suministros
     p Como se ha revisado hasta el momento, las cadenas de todo tipo están formadas por eslabones que en esta cadena de suministros están enmarcados en todos los subprocesos que van a hacer posible la generación de un flujo adecuado a las necesidades del cliente y de las empresas con la menor cantidad de sobretiempos y costos adicionales posibles con una trazabilidad respetable y para eso es fundamental la normatividad, a continuación se presenta la forma de integrar la cadena de suministros.
-    .separador
+    .separador-custom
     #t_3_1.titulo-segundo-cab.mb-4
       h2 3.1.	Normatividad aplicada a los procesos logísticos
     p El sector logístico es cada vez más relevante en la economía actual, por todo ello, es sin duda oportuno profundizar en el estado actual de la infraestructura normativa, en especial, en el marco del comercio a través de Internet, ya que esta cultura de calidad no tiene la misma penetración en todos los sectores económicos. 
@@ -31,7 +31,7 @@
         h4 Icontec
         p Instituto Colombiano de Normas Técnicas y Certificación
     p Desde luego, no es la ley la que obliga a certificarse, ni tampoco ningún organismo público o privado, o por lo menos para la inmensa mayoría de sectores; sin embargo, demostrar la calidad de los productos a los clientes genera <b>confianza para el consumidor</b>, puesto que el objetivo esencial de la certificación es proporcionar al consumidor la garantía de que un determinado producto o servicio cumple unas determinadas normas; además de un <b>servicio de inspección y vigilancia</b>, que garantiza la calidad de los productos adquiridos.
-    .separador
+    .separador-custom
     #t_3_2.titulo-segundo-cab.mb-4
       h2 3.2.	Alianzas entre clientes y proveedores
     .col-lg-10.mx-auto.mb-4
@@ -68,7 +68,7 @@
       li 
         i.fas.fa-angle-right.cab-color
         p Filosofía gana-gana
-    .separador
+    .separador-custom
     #t_3_3.titulo-segundo-cab.mb-4
       h2 3.3.	Requerimientos de manejo ambiental
     p La condición ambiental ha sido un tema cada vez más relevante en la reflexión global, se han firmado tratados internacionales, y es un tema que se discute de manera periódica. Esto ha permitido que se den los primeros esfuerzos hacia una economía más sustentable; dichos esfuerzos, aunque no han sido completamente logrados, tratan de orientar el cambio en los patrones de pensamiento de los diferentes participantes (gobiernos, empresas y consumidores).
@@ -88,7 +88,7 @@
       div(titulo="Convenio de Rotterdam")
         p Su objetivo es promover la responsabilidad compartida y los esfuerzos conjuntos de las Partes en la esfera del comercio internacional de ciertos productos químicos peligrosos a fin de proteger la salud humana y el medio ambiente frente a posibles daños y contribuir a su utilización ambientalmente racional, facilitando el intercambio de información acerca de sus características, estableciendo un proceso nacional de adopción de decisiones sobre su importación y exportación y difundiendo esas decisiones a las Partes.
         p El seguimiento e implementación del Convenio está en cabeza de los Ministerios de Ambiente y Desarrollo Sostenible y de Salud y Protección Social, así como del Instituto Colombiano Agropecuario ICA.
-    .separador
+    .separador-custom
     #t_3_4.titulo-segundo-cab.mb-4
       h2 3.4.	Trazabilidad en los procesos logísticos
     p Ocampo (2009) establece para este tema lo siguiente: “La trazabilidad logística hace referencia a la posibilidad de identificar el origen y las distintas etapas por las que pasa un producto a lo largo de todo el proceso productivo y su posterior distribución logística hasta llegar al consumidor final”, por tanto, un sistema de trazabilidad comprende un conjunto de procedimientos que permiten conocer la ubicación de un producto en la cadena de suministro en cada momento, así como rastrear su recorrido o saber de antemano qué camino va a seguir.
@@ -131,7 +131,7 @@
     h4.text-center Proceso de trazabilidad
     img(src='@/assets/curso/tema3/f9.svg', alt='T3-F9').mb-4.p-4
     p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada Mecalux (2019)</span>
-    .separador
+    .separador-custom
     #t_3_5.titulo-segundo-cab.mb-4
       h2 3.5.	Sistemas de gestión de calidad
     p La gestión de calidad, es un conjunto de acciones y herramientas que tienen como objetivo evitar posibles errores o desviaciones en el proceso de producción y en los productos o servicios obtenidos mediante el mismo.
@@ -150,7 +150,7 @@
         p La norma específica las características de los símbolos utilizados de una manera convencional para el marcado de embalajes de expedición con el fin de transmitir prescripciones de manipulación.
       div(titulo="ISO 7000")
         p Esta norma se refiere al rótulo y marca de un empaque para ayudar a identificar los productos, su manejo y ubicación.
-    .separador
+    .separador-custom
     #t_3_6.titulo-segundo-cab.mb-4
       h2 3.6.	Sistemas seguridad y salud en el trabajo OSHAS 18000
     .row.fondo-purpura-medio.align-items-center.p-5

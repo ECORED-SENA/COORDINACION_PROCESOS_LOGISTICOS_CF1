@@ -7,14 +7,14 @@
         span 4
       h1 Evaluación de la cadena de suministros
     p Los temas de logística y cadena de suministros son una cuestión de medición y evaluación constante, no es lógico trabajar sin medir y por eso se hacen varias menciones y la forma de hacerla junto con su objetivo real.
-    .separador
+    .separador-custom
     #t_4_1.titulo-segundo-cab.mb-5
       h2 4.1.	<i>Benchmarking</i> qué es, cómo funciona, utilidad
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
-    .separador
+    .separador-custom
     #t_4_2.titulo-segundo-cab.mb-5
       h2 4.2.	Valor agregado
     .col-lg-10.mx-auto.mb-4
@@ -27,7 +27,7 @@
     p Los usuarios, consumidores y compradores finales son los últimos y principales destinatarios de esa superación de expectativas (formadas a partir de las experiencias de compra, de sus necesidades en comparación con la oferta de la competencia, o de los comentarios y opiniones externas), pero desde luego la ecuación del valor se propaga a través de los canales de toda la cadena de suministro, para cada momento decisivo en la relación cliente-proveedor.
     p La globalización de los negocios y la necesidad de llegar con más rapidez y eficiencia a los consumidores son situaciones que conducen a las empresas a buscar diversas estrategias para responder a las complejidades cada vez mayores de los mercados.
     p Retomando el concepto de la Revista de Logística Legis (2016) se puede decir que la evolución del concepto de logística al de Supply Chain Management (gerencia de la cadena de abastecimiento) y la necesidad de sobrevivir en un mercado más competido, se convierten en nuevos retos para quienes se desempeñan en el campo de la logística. La logística está para crear valor a los clientes, proveedores y accionistas de la compañía. El valor en logística está expresado en términos de tiempo y lugar. Los productos y servicios no tienen valor, a menos que estén en posesión de los clientes cuándo (tiempo) y dónde (lugar) ellos deseen consumirlos.
-    .separador
+    .separador-custom
     #t_4_3.titulo-segundo-cab.mb-5
       h2 4.3.	Mejoramiento de procesos
     p En este contexto se debe ser enfático como lo hace Mora (2008, s.p.) “una de las características de las organizaciones modernas es que han incorporado a sus procesos, elementos de gestión que les permiten evaluar sus logros o señalar falencias para aplicar los correctivos necesarios”. Estos elementos conocidos como indicadores se deben establecer desde el mismo momento en que se elabora el plan de desarrollo estratégico y se aplican a este y al plan operativo, en espacios reales y en evaluación constante que busca un mejoramiento clave.
@@ -121,7 +121,7 @@
           li 
             i.fas.fa-angle-right.cab-color
             p Capacidad instalada.
-    .separador
+    .separador-custom
     #t_4_4.titulo-segundo-cab.mb-5
       h2 4.4.	 Medición del desempeño logística de aprovisionamiento
     p.mb-5 Para el caso de la logística, solo se deben desarrollar indicadores para aquellas actividades o procesos relevantes al objetivo logístico de la empresa y, para lo anterior, se deben tener en cuenta los siguientes pasos:
@@ -223,7 +223,7 @@
             td Nivel de cumplimento en despacho
             td Número de despachos cumplidos a tiempo/Número total de despachos requeridos
             td Controlar la eficacia de los despachos efectuados por el centro de distribución
-    .separador
+    .separador-custom
     #t_4_5.titulo-segundo-cab.mb-5
       h2 4.5. Medición del desempeño logística interna
     p Los movimientos de materiales y productos a lo largo de la cadena de suministro son un aspecto clave en la gestión logística, ya que de ello depende el reabastecimiento ó logística de la empresa.
@@ -257,7 +257,7 @@
             td Vejez del inventario
             td Unidades dañadas + obsoletas + vendidas/Unidades disponibles en el inventario
             td Controlar el nivel de las mercancías no disponibles para despacho por obsolescencias, mal estado y otros
-    .separador
+    .separador-custom
     #t_4_6.titulo-segundo-cab.mb-5
       h2 4.6.	 Medición del desempeño logística de salida
     p La distribución es una función logística vital para el desempeño exitoso de la compañía, por lo tanto, es fundamental poder controlar los costos y productividad asociados a la gestión de la misma, particularmente de la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos dentro de la gestión logística por su fuerte impacto en inversiones de activos fijos y respuesta al cliente final.
@@ -283,7 +283,7 @@
             td Comparativo costo de transporte
             td Costo de transporte propio por unidad/Costo de contratar transporte por unidad
             td Controlar los gastos propios de unidades transportadas con los que ofrece el mercado de terceros
-    .separador
+    .separador-custom
     #t_4_7.titulo-segundo-cab.mb-5
       h2 4.7.	Sistemas de recolección de información
     p Los sistemas de recolección de la información son variados y, en la actualidad, con las tecnologías de la información y comunicación son casi innumerables, a continuación se hace una mención de los sistemas más representativos que se deben considerar en una empresa; se hace la salvedad, que los sistemas relacionados a continuación no son los únicos y que cada empresa debe buscar el que mejor se ajuste a sus necesidades puntuales, pues son muchas las empresas que están trabajando en el desarrollo de estos sistemas y la facilidad de adquisición es alta.

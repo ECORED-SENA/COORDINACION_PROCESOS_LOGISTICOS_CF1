@@ -12,7 +12,7 @@
         p Con base en Bautista, Martínez y Fernández (2015) se debe entender que la cadena de suministros se ocupa de cuestiones estratégicas, tales como la integración de los procesos de negocio internos y externos, el desarrollo de vínculos estrechos entre los socios del canal, y la gestión de los productos y la información a medida que avanzan a través de fronteras organizativas y empresariales; en otro nivel, puede ser una herramienta táctica y operativa aplicada a la gestión de las actividades operacionales en curso. Estas actividades pueden incluir: el servicio al cliente, el control de los flujos de entrada y salida de materiales e información, la eliminación de las ineficiencias de los canales y los costos, que se extienden desde la adquisición de materias primas hasta la fabricación, distribución, consumo y el retorno final a través del canal por medio de reciclaje o eliminación. 
       .col-lg-4.p-4.mx-auto
         img(src='@/assets/curso/tema2/f1.svg', alt='T2-F1')
-    .separador
+    .separador-custom
     #t_2_1.titulo-segundo-cab.mb-4
       h2 2.1. Cadena de valor
     p Este término acuñado por Porter (1991) identifica, entonces, “las principales actividades que crean un valor para los clientes y las actividades de apoyo relacionadas”. La cadena permite también identificar los distintos costos en los que incurre una organización a través de las distintas actividades que conforman su proceso productivo, por lo que constituye un elemento indispensable para determinar la estructura de costos de una compañía. 
@@ -33,7 +33,7 @@
           span.texto-blanco Ir al sitio
           i.fas.fa-file-download.texto-blanco
           .indicador--click(v-if="mostrarIndicador")
-    .separador
+    .separador-custom
     #t_2_2.titulo-segundo-cab.mb-4
       h2 2.2. Redes logísticas
     p La cadena logística es la vía imaginaria mediante la cual se realiza el movimiento de mercancías desde su origen hasta el consumidor final, esta movilización se lleva a cabo a través del servicio, la manipulación, transformación, desplazamiento y almacenamiento que sufren los productos desde que son materia prima hasta su elaboración como mercancía final. Estas cadenas se diseñan para que puedan cubrir los diferentes modos de transporte a saber: marítimo, terrestre (férreo y carretera), aéreo, y en su construcción participan diferentes actores.
@@ -44,7 +44,7 @@
     .col-lg-8.mx-auto.py-4
       h4.text-center.mb-4 Tres grandes logísticas de la empresa
       img(src='@/assets/curso/tema2/f4.svg', alt='T2-F4').mb-4
-    .separador
+    .separador-custom
     #t_2_3.titulo-segundo-cab.mb-4
       h2 2.3.	Clasificación de macroprocesos como actores de la cadena
     p Cumplirle al cliente tiene una serie de novedades que no se pueden enumerar en algunos casos, pues “son muchos los puntos críticos que se manejan durante la gestión de la cadena, y para su administración y cumplimiento debemos contar con elementos de apoyo imprescindibles para gestionarla correctamente” (Rojas, Guisao y Cano, 2001). Al gestionar estas logísticas se logra identificar y establecer la movilización entre las diferentes unidades, a diseñar diferentes pasos o caminos para lograr su fin principal: cumplirle al cliente.
@@ -65,7 +65,7 @@
     .col-lg-8.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4
         p.mb-0 Al gestionar estas tres logísticas, se busca convertir la cadena de suministro de la empresa en un proceso eficiente para la satisfacción del cliente, es decir, <b>la efectividad de toda la cadena debe ser más importante que la efectividad de cada una por separado</b>, a través de sus diferentes funciones.
-    .separador
+    .separador-custom
     #t_2_4.titulo-segundo-cab.mb-4
       h2 2.4.	Clasificación de los subproceso de la cadena de abastecimiento
     p Es fundamental contar con el apoyo de los demás integrantes de la cadena de abastecimiento, los cuales se relacionan a continuación.
@@ -135,7 +135,7 @@
     h4.text-center Gestión de coordinación de procesos
     img(src='@/assets/curso/tema2/f10.svg', alt='T2-F10').p-4
     p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
-    .separador
+    .separador-custom
     #t_2_5.titulo-segundo-cab.mb-4
       h2 2.5.	Logística inversa o de reversa
     p La definición dada por el Consejo Ejecutivo de Logística Inversa de Estados Unidos, según la cual la retrologística es:
@@ -149,7 +149,7 @@
     .col-lg-8.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4
         p.mb-0 Para la implementación de una política de devoluciones, se debe tener claridad del proceso y establecer los plazos, estado del producto, documentación necesaria, etc.
-    .separador
+    .separador-custom
     #t_2_6.titulo-segundo-cab.mb-4
       h2 2.6. E-logisticis
     p El e-commerce o comercio electrónico abarca los términos de compra, venta, distribución y desarrollo de todas las herramientas, así como el aprovisionamiento de información al consumidor acerca de un producto o servicio a través de internet. 
@@ -189,7 +189,7 @@
             tr
               td Canal directo que agiliza el proceso logístico.
               td Mayor relación y comunicación entre la empresa y el consumidor, lo que mejora el servicio al cliente y la imagen de la empresa.
-    .separador
+    .separador-custom
     #t_2_7.titulo-segundo-cab.mb-4
       h2 2.7.	CPFR o la planificación, pronosticación y reabastecimiento colaborativos
     p Según Granillo, Hernández y Santana (2013):
