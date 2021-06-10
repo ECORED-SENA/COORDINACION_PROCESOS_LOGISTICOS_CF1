@@ -19,7 +19,7 @@
       img(src='@/assets/curso/tema1/f2.svg', alt='T1-F2').mb-4
       p.text-center <span style="font-size:13px">Nota. Tomada de Mecalux (2019)</span>
     p.mb-5 La cadena de suministro hace referencia al flujo completo que sigue un producto hasta su venta; en cambio, la logística forma parte de la cadena de suministro y se trata de una disciplina centrada en el almacenamiento de productos, en su transporte y su distribución.<br><br>De esta forma, la logística es el área empresarial responsable de hacer llegar el producto correcto, al destino indicado en el tiempo establecido, en las cantidades precisas, con el coste y la calidad requeridas siempre en consonancia con las condiciones que han sido previamente acordadas con el cliente.
-    h5.mb-5.text-center Diferencias entre la cadena de suministro y la logística
+    h4.mb-5.text-center Diferencias entre la cadena de suministro y la logística
     .tabla-a.color-acento-botones.mb-5 
       table
         caption Nota. Tomada de Mecalux (2019)
@@ -54,8 +54,8 @@
     p.mb-5 Al igual que cualquier actividad empresarial, el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad, para conseguirlo, se debe efectuar una planeación dentro de la empresa, la cual puede cubrir los siguientes niveles: <b>planeación estratégica; planeación táctica; planeación operativa.</b>
     .col-lg-8.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4.mb-5
-        p.mb-0 … el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad…
-    h5.mb-5.text-center La cadena logística y sus niveles estratégicos
+        .h2 … el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad…
+    h4.mb-5.text-center La cadena logística y sus niveles estratégicos
     .col-lg-8.mx-auto.tarjeta.fondo-purpura-clarito.py-4.mb-5
       img(src='@/assets/curso/tema1/f3.svg', alt='T1-F3').mb-4
       p.text-center <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
@@ -145,24 +145,24 @@
       h2 1.5.	Responsabilidades en la cadena de suministros
     p.mb-5 Como se anotó anteriormente, la necesidad de las organizaciones de ser eficientes en la cadena de abastecimiento y competitivas en el mercado actual, ha ayudado a desarrollar el esquema logístico a nivel interno y con un acelerado crecimiento a nivel mundial. Entre las responsabilidades más importantes que motivan a las compañías a tecnificarse y a desarrollar intensamente su cadena logística se destacan:
     .col-lg-7.mx-auto
-      h5.text-center.mb-5 Responsabilidades de la empresa en función a la operación logística
+      h4.text-center.mb-5 Responsabilidades de la empresa en función a la operación logística
       img(src='@/assets/curso/tema1/f9.svg', alt='T1-F9').mb-5
     .col-lg-10.mx-auto
       img(src='@/assets/curso/tema1/f10.svg', alt='T1-F10').mb-4
       p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Universidad Tecnológica de Chile (2017)</span>
     .separador
     #t_1_6.titulo-segundo-cab.mb-4
-      h2 1.6.	Clasificación de los subproceso de la cadena de abastecimiento
+      h2 1.6.	Clasificación de los subprocesos de la cadena de abastecimiento
     p Los elementos que conforman la logística a saber son tres (3) como se presentan a continuación:
     .row.align-items-center.justify-content-between.px-5
       .col-lg-6
         img(src='@/assets/curso/tema1/f11.svg', alt='T1-F11')
       .col-lg-5
-        .tarjeta.fondo-azul-clarito.p-4
+        .tarjeta.fondo-purpura-clarito.p-4
           h5 Abastecimiento
-          p.mb-0 <b>La gestión de materiales:</b> es la administración del suministro y recepción de materias primas y productos semielaborados para uso posterior.
+          p.mb-0 <b>La gestión de materiales:</b> es la administración del suministro y recepción de materias primas y productos semielaborados para un uso posterior.
       .col-lg-5
-        .tarjeta.fondo-azul-clarito.p-4
+        .tarjeta.fondo-purpura-clarito.p-4
           h5 Producción
           p.mb-0 <b>El sistema de flujo de materiales:</b> consiste en la habilidad de planificar la fabricación de productos terminados, para que estén disponibles con el fin de atender las solicitudes de los clientes.
       .col-lg-6
@@ -170,7 +170,7 @@
       .col-lg-6
         img(src='@/assets/curso/tema1/f13.svg', alt='T1-F13')
       .col-lg-5
-        .tarjeta.fondo-azul-clarito.p-4
+        .tarjeta.fondo-purpura-clarito.p-4
           h5 Distribución
           p.mb-0 <b>Distribución física:</b> es la entr  ega de los productos terminados a los diferentes clientes.
     .separador

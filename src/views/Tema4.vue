@@ -6,7 +6,10 @@
       .titulo-principal__numero
         span 4
       h1 Evaluación de la cadena de suministros
-    p 
+    p Los temas de logística y cadena de suministros son una cuestión de medición y evaluación constante, no es lógico trabajar sin medir y por eso se hacen varias menciones y la forma de hacerla junto con su objetivo real.
+    .separador
+    #t_4_1.titulo-segundo-cab.mb-5
+      h2 4.1.	<i>Benchmarking</i> qué es, cómo funciona, utilidad
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -16,7 +19,7 @@
       h2 4.2.	Valor agregado
     .col-lg-10.mx-auto.mb-4
       .cajon.color-acento-contenido.p-5
-        p.mb-0 Es claro que el principal objetivo de la gestión de la cadena de abastecimiento es maximizar la relación de valor fundamentalmente, puede descr ibirse como la proporción que se genera entre los beneficios lograrlos y los recursos utilizados para obtenerlos.
+        p.mb-0 Es claro que el principal objetivo de la gestión de la cadena de abastecimiento es maximizar la relación de valor fundamentalmente, puede describirse como la proporción que se genera entre los beneficios lograrlos y los recursos utilizados para obtenerlos.
     p El valor agregado es todo lo que el cliente intuye de la organización y en algunos casos se puede conocer como propuesta de valor que está definida por la calidad, el tiempo o cualquiera de los diferentes elementos que se muestran en esta gráfica:
     .col-lg-6.mx-auto
       img(src='@/assets/curso/tema4/f1.svg', alt='T4-F1').mb-5
@@ -46,27 +49,27 @@
       .col-lg-6
         .tarjeta-avatar-b.mb-4
           img(src='@/assets/curso/tema4/f3.svg', alt='T4-F3', style="width:60px")
-          .tarjeta.fondo-azul-clarito
+          .tarjeta.fondo-purpura-medio
             .p-4
               .h4.mb-0 Pueden medir cambios en esa condición o situación a través del tiempo.
         .tarjeta-avatar-b.mb-4
           img(src='@/assets/curso/tema4/f4.svg', alt='T4-F4', style="width:60px")
-          .tarjeta.fondo-azul-clarito
+          .tarjeta.fondo-purpura-medio
             .p-4
               .h4.mb-0 Facilitan mirar de cerca los resultados de iniciativas o acciones.
       .col-lg-6
         .tarjeta-avatar-b.mb-4
           img(src='@/assets/curso/tema4/f5.svg', alt='T4-F5', style="width:60px")
-          .tarjeta.fondo-azul-clarito
+          .tarjeta.fondo-purpura-medio
             .p-4
               .h4.mb-0 Son instrumentos muy importantes para evaluar y dar surgimiento al proceso de desarrollo.
         .tarjeta-avatar-b.mb-4
           img(src='@/assets/curso/tema4/f6.svg', alt='T4-F6', style="width:60px")
-          .tarjeta.fondo-azul-clarito
+          .tarjeta.fondo-purpura-medio
             .p-4
               .h4.mb-0 Son instrumentos valiosos para determinar cómo se pueden alcanzar mejores resultados en proyectos de desarrollo.
     p Aparte de sus características fundamentales, se tienen tres aspectos adicionales a tener en cuenta: sus indicadores, saber para qué se requieren y de qué sirve cada uno.
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-azul-clarito")
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-purpura-medio")
       .row(titulo="Indicadores logísticos")
         p Son relaciones de datos numéricos y cuantitativos aplicados a la gestión logística que permiten evaluar el desempeño y el resultado en cada proceso e incluyen los procesos de recepción, almacenamiento, inventarios, despachos, distribución, entregas, facturación y los flujos de información entre los socios de negocios. Es indispensable, entonces, que toda empresa desarrolle habilidades alrededor del manejo de los indicadores de gestión logística, con el fin de poder utilizar la información resultante de manera oportuna (tomar decisiones).
       div(titulo="Objetivos")
@@ -76,7 +79,7 @@
             p Identificar y tomar acciones sobre los problemas operativos.
           li 
             i.fas.fa-angle-right.cab-color
-            p Medir el grado de competitividad de la empresa frente a sus competidores nacionales e internacionales
+            p Medir el grado de competitividad de la empresa frente a sus competidores nacionales e internacionales.
           li 
             i.fas.fa-angle-right.cab-color
             p Satisfacer las expectativas del cliente mediante la reducción del tiempo de entrega y la optimización del servicio prestado.
@@ -88,7 +91,7 @@
             p Reducir gastos y aumentar la eficiencia operativa.
           li 
             i.fas.fa-angle-right.cab-color
-            p Compararse con las empresas del sector en el ámbito local y mundial (Benchmarking)
+            p Compararse con las empresas del sector en el ámbito local y mundial (Benchmarking).
       div(titulo="Utilidades")
         ul.lista-ul--separador.mb-5
           li 
@@ -123,53 +126,55 @@
       h2 4.4.	 Medición del desempeño logística de aprovisionamiento
     p.mb-5 Para el caso de la logística, solo se deben desarrollar indicadores para aquellas actividades o procesos relevantes al objetivo logístico de la empresa y, para lo anterior, se deben tener en cuenta los siguientes pasos:
     .row.align-items-start.lista-grande.mb-5
+      .fc-pmedio
       .col-lg-6
         ol.lista-ol--circulo.lista-ol--separador
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span.text-center 1
             | Identificar el proceso logístico a medir.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 2
             | Conceptualizar cada paso del proceso.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 3
             | Definir el objetivo del indicador y cada variable a medir.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 4
             | Recolectar información inherente al proceso.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 5
             | Cuantificar y medir las variables.
       .col-lg-6
         ol.lista-ol--circulo.lista-ol--separador
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 6
             | Establecer el indicador a controlar.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 7
             | Comparar con el indicador global y el de la competencia interna.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 8
             | Seguir y retroalimentar las mediciones periódicamente.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 9
             | Mejorar continuamente el indicador.
-          li 
+          li.align-items-center
             .lista-ol--circulo__vineta
               span 10
             | Proyección y benchmarking externos.
-    h3 Indicadores de compras y abastecimiento.
+    h3 Indicadores de compras y abastecimiento
     p Estos indicadores están diseñados en función de evaluar y mejorar continuamente la gestión de compras y abastecimiento como factor clave en el éxito de la gestión de la cadena de suministro de la compañía, donde se pueden controlar aspectos del proceso de compras como de las negociaciones y alianzas estratégicas hechas con proveedores.
-    .tabla-a.color-acento-contenido.mb-5 
+    h3.text-center Indicador de compras y abastecimiento
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
       table
         caption Nota. Adaptada de Mora (2008)
         thead
@@ -179,24 +184,25 @@
             th Objetivo
         tbody
           tr
-            td Certificación de proveedores.
+            td Certificación de proveedores
             td Proveedores/Total proveedores
-            td Controlar la calidad de los proveedores y el nivel de integración con los mismos.
+            td Controlar la calidad de los proveedores y el nivel de integración con los mismos
           tr
-            td Calidad de los pedidos generados.
-            td Pedidos generados sin problema/Total pedido generados * 100.
-            td Controlar la calidad de los pedidos generados por el área de compras.
+            td Calidad de los pedidos generados
+            td Pedidos generados sin problema/Total pedido generados * 100
+            td Controlar la calidad de los pedidos generados por el área de compras
           tr
-            td Volumen de compra.
-            td Valor de compra/Total de las ventas.
-            td Controla la evolución del volumen de compra en relación con el volumen de venta.
+            td Volumen de compra
+            td Valor de compra/Total de las ventas
+            td Controla la evolución del volumen de compra en relación con el volumen de venta
           tr
-            td Entregas recibidas.
-            td Pedidos rechazados/Total órdenes de compra recibidas *100.
-            td Controlar la calidad de los productos/materiales recibidos, y la puntualidad de las entregas de los proveedores de mercancía.
-    h3 Indicadores de almacenamiento y bodegaje.
+            td Entregas recibidas
+            td Pedidos rechazados/Total órdenes de compra recibidas *100
+            td Controlar la calidad de los productos/materiales recibidos, y la puntualidad de las entregas de los proveedores de mercancía
+    h3 Indicadores de almacenamiento y bodegaje
     p La gestión de almacenamiento debe estar totalmente alineada con la gestión de aprovisionamiento y distribución, por lo tanto, el control sobre los procesos generados al interior del centro de distribución o almacén es determinante en cuanto al impacto de los costos de operación sobre la operación logística.
-    .tabla-a.color-acento-contenido.mb-5 
+    h3.text-center Indicador de almacenamiento y bodegaje
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
       table
         caption Nota. Adaptada de Mora (2008)
         thead
@@ -206,23 +212,23 @@
             th Objetivo
         tbody
           tr
-            td Costo de unidad almacenada.
-            td Costo del almacenamiento/Número de unidades almacenadas.
-            td Controlar el valor unitario del costo por almacenamiento propio o contratado.
+            td Costo de unidad almacenada
+            td Costo del almacenamiento/Número de unidades almacenadas
+            td Controlar el valor unitario del costo por almacenamiento propio o contratado
           tr 
-            td Costo de unidad despachada.
-            td Costo de operación bodega/Total unidades despachadas.
-            td Controlar los costos unitarios por manejo de las unidades de carga de la bodega.
+            td Costo de unidad despachada
+            td Costo de operación bodega/Total unidades despachadas
+            td Controlar los costos unitarios por manejo de las unidades de carga de la bodega
           tr
-            td Nivel de cumplimento en despacho.
-            td Número de despachos cumplidos a tiempo/Número total de despachos requeridos.
-            td Controlar la eficacia de los despachos efectuados por el centro de distribución.
+            td Nivel de cumplimento en despacho
+            td Número de despachos cumplidos a tiempo/Número total de despachos requeridos
+            td Controlar la eficacia de los despachos efectuados por el centro de distribución
     .separador
     #t_4_5.titulo-segundo-cab.mb-5
       h2 4.5. Medición del desempeño logística interna
-    p Los movimientos de materiales y productos a lo largo de la cadena de suministro son un aspecto clave en la gestión logística, ya que de ello depende el reabastecimiento ó   gística de la empresa.
-    h3 Indicadores de producción e inventario
-    .tabla-a.color-acento-contenido.mb-5 
+    p Los movimientos de materiales y productos a lo largo de la cadena de suministro son un aspecto clave en la gestión logística, ya que de ello depende el reabastecimiento ó logística de la empresa.
+    h3.text-center Indicadores de producción e inventario
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
       table
         caption Nota. Adaptada de Mora (2008)
         thead
@@ -232,31 +238,31 @@
             th Objetivo
         tbody
           tr
-            td Capacidad de producción utilizada.
-            td Capacidad utilizada/Capacidad máxima del recurso.
-            td Controlar la utilización efectiva de las instalaciones (productivas, de almacenaje o transporte) de la compañía.
+            td Capacidad de producción utilizada
+            td Capacidad utilizada/Capacidad máxima del recurso
+            td Controlar la utilización efectiva de las instalaciones (productivas, de almacenaje o transporte) de la compañía
           tr
-            td Rendimiento de máquina.
-            td Número de unidades productivas/Capacidad máxima del recurso *100.
-            td Controlar la productividad de una máquina de manufactura con respecto a la capacidad máxima de utilización posible.
+            td Rendimiento de máquina
+            td Número de unidades productivas/Capacidad máxima del recurso *100
+            td Controlar la productividad de una máquina de manufactura con respecto a la capacidad máxima de utilización posible
           tr
-            td Rotación de mercancía.
-            td Ventas acumuladas/Inventario promedio.
-            td Controlar la cantidad de los productos/materiales despachados desde el centro de distribución.
+            td Rotación de mercancía
+            td Ventas acumuladas/Inventario promedio
+            td Controlar la cantidad de los productos/materiales despachados desde el centro de distribución
           tr
-            td Duración del inventario.
-            td Inventario final/Ventas promedio *30 días.
-            td Controlar los días de inventario disponible de la mercancía almacenada en el centro de distribución.
+            td Duración del inventario
+            td Inventario final/Ventas promedio *30 días
+            td Controlar los días de inventario disponible de la mercancía almacenada en el centro de distribución
           tr
-            td Vejez del inventario.
-            td Unidades dañadas + obsoletas + vendidas/Unidades disponibles en el inventario.
-            td Controlar el nivel de las mercancías no disponibles para despacho por obsolescencias, mal estado y otros.
+            td Vejez del inventario
+            td Unidades dañadas + obsoletas + vendidas/Unidades disponibles en el inventario
+            td Controlar el nivel de las mercancías no disponibles para despacho por obsolescencias, mal estado y otros
     .separador
     #t_4_6.titulo-segundo-cab.mb-5
       h2 4.6.	 Medición del desempeño logística de salida
     p La distribución es una función logística vital para el desempeño exitoso de la compañía, por lo tanto, es fundamental poder controlar los costos y productividad asociados a la gestión de la misma, particularmente de la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos dentro de la gestión logística por su fuerte impacto en inversiones de activos fijos y respuesta al cliente final.
-    h3 Indicadores de compras y abastecimiento.
-    .tabla-a.color-acento-contenido.mb-5 
+    h3.text-center Indicador de transporte y distribución
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
       table
         caption Nota. Adaptada de Mora (2008)
         thead
@@ -266,15 +272,17 @@
             th Objetivo
         tbody
           tr
-            td Costo de transporte Vs. venta.	Costo del transporte/Valor ventas totales *100.	Controlar el costo del transporte respecto a las ventas de la empresa.
+            td Costo de transporte Vs. venta
+            td Costo del transporte/Valor ventas totales *100
+            td Controlar el costo del transporte respecto a las ventas de la empresa
           tr
-            td Costo operativo por conductor.
-            td Costo total transporte/Número de conductores.
-            td Controlar la contribución de cada conductor dentro de los gastos totales de transporte.
+            td Costo operativo por conductor
+            td Costo total transporte/Número de conductores
+            td Controlar la contribución de cada conductor dentro de los gastos totales de transporte
           tr
-            td Comparativo costo de transporte.
-            td Costo de transporte propio por unidad/Costo de contratar transporte por unidad.
-            td Controlar los gastos propios de unidades transportadas con los que ofrece el mercado de terceros.
+            td Comparativo costo de transporte
+            td Costo de transporte propio por unidad/Costo de contratar transporte por unidad
+            td Controlar los gastos propios de unidades transportadas con los que ofrece el mercado de terceros
     .separador
     #t_4_7.titulo-segundo-cab.mb-5
       h2 4.7.	Sistemas de recolección de información
@@ -289,7 +297,7 @@
       img(src='@/assets/curso/tema4/f13.svg', alt='T3-F13', style="width:60px; border-bottom:none;")
       .tarjeta.transparent1
         .p-4
-          .h4 MRP
+          .h4 WMS
           p.mb-0 (Warehousing Management System o sistema de administración de inventarios), subsistema de información que ayuda en la administración del flujo del producto y el manejo de las instalaciones en la red logística.
     .tarjeta-avatar-b
       img(src='@/assets/curso/tema4/f13.svg', alt='T3-F13', style="width:60px; border-bottom:none;")

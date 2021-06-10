@@ -3,6 +3,8 @@
 
 $azulClarito: #47a0e6
 $azulOscuro: #0f2771
+$pmedio: #BDD0FB33
+
 $gradiente1: $azulClarito 0%, $azulOscuro 100%
 @mixin gradient($direction, $list)
   background: -webkit-linear-gradient($direction, $list)
@@ -15,6 +17,9 @@ $gradiente1: $azulClarito 0%, $azulOscuro 100%
 
 .fondo-purpura-clarito
   background-color: #7D6EB20D
+
+.fondo-purpura-medio
+  background-color: #BDD0FB33
 
 .bloque-bicolor-ac
   background-color: #BDD0FB
@@ -89,26 +94,47 @@ $gradiente1: $azulClarito 0%, $azulOscuro 100%
   background-color: #fe7062 !important
   border-bottom: 2px solid #FE7062 !important
 
+.fc-pmedio
+  background-color: $azulOscuro
+  width: 100%
+  height: 100%
+  top: 0
+  left: 1rem
+  display: block
+  position: relative
+
 .lista-ol--circulo li
-    display: flex
+  display: flex
+
 
 .lista-ol--circulo__vineta
   background-color: #FE7062
   display: inline-block
-  min-width: 60px
-  height: 60px
+  min-width: 3.8rem
+  height: 3.8rem
   color: #fff
   position: relative
-  margin-right: 20px
-  border-radius: 30px
+  margin-right: 1.3rem
+  border-radius: 1.8rem
   span
-    position: relative
-    font-size: 33px
-    margin: 5px auto
-    padding: 10px
+    position: absolute
+    font-size: 2rem
     font-weight: 900
-    width: 60px
+    min-width: 100%
+    transform-origin: center
+    text-align: center !important
+    top: 10%
+  li
+    position: relative
+    top: .8rem
 
-.tabla-a thead
+.tablaAzul thead
   background-color: $color-acento-contenido
   font-size: 20px
+
+.header
+  a
+    color: $color-sistema-texto !important
+
+.banner-principal__img
+  transform: scale(1.2)

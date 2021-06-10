@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Integración de la cadena de suministros
-    p Como se ha revisado hasta el momento, las cadenas de todo tipo están formadas por eslabones que en este cadena de suministros están enmarcados en todos los subprocesos que van a hacer posible la generación de un flujo adecuado a las necesidades del cliente y de las empresas con la menor cantidad de sobretiempos y costos adicionales posibles con una trazabilidad respetable y para eso es fundamental la normatividad, a continuación se presenta la forma de integrar la cadena de suministros.
+    p Como se ha revisado hasta el momento, las cadenas de todo tipo están formadas por eslabones que en esta cadena de suministros están enmarcados en todos los subprocesos que van a hacer posible la generación de un flujo adecuado a las necesidades del cliente y de las empresas con la menor cantidad de sobretiempos y costos adicionales posibles con una trazabilidad respetable y para eso es fundamental la normatividad, a continuación se presenta la forma de integrar la cadena de suministros.
     .separador
     #t_3_1.titulo-segundo-cab.mb-4
       h2 3.1.	Normatividad aplicada a los procesos logísticos
@@ -16,17 +16,17 @@
     p A continuación, se relacionan entidades certificadoras:
     .row.align-items-start.justify-content-between.mb-4
       .col-lg-4
-        .tarjeta.fondo-azul-clarito.mb-4(style="width:100%;height:210px")
-          img(src='@/assets/curso/tema3/f1.svg', alt='T3-F1', style="width:210px").mx-auto
+        .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
+          img(src='@/assets/curso/tema3/f2.svg', alt='T3-F1', style="width:210px").mx-auto
         h4 ISO
         p International Organization for Standarization
       .col-lg-4
-        .tarjeta.fondo-azul-clarito.mb-4(style="width:100%;height:210px")
-          img(src='@/assets/curso/tema3/f2.svg', alt='T3-F2', style="width:210px").mx-auto
+        .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
+          img(src='@/assets/curso/tema3/f1.svg', alt='T3-F2', style="width:210px").mx-auto
         h4 CEN
         p Comité Europeo de Normalización
       .col-lg-4
-        .tarjeta.fondo-azul-clarito.mb-4(style="width:100%;height:210px")
+        .tarjeta.fondo-purpura-clarito.mb-4(style="width:100%;height:210px")
           img(src='@/assets/curso/tema3/f3.svg', alt='T3-F3', style="width:210px").mx-auto
         h4 Icontec
         p Instituto Colombiano de Normas Técnicas y Certificación
@@ -38,9 +38,8 @@
       .cajon.color-acento-contenido.p-4
         p.mb-0 Una alianza estratégica es una relación comercial en la que dos o más organizaciones independientes deciden trabajar juntas para lograr objetivos específicos. Las alianzas son estratégicas cuando ofrecen una ventaja competitiva a las parte s involucradas.
     p El objetivo de crear alianzas estratégicas con los proveedores es trabajar juntos para mejorar la eficiencia de las operaciones de ambas compañías, con esto se logra eliminar costos de sus sistemas logísticos, incrementar su rentabilidad y mejorar el servicio final al consumidor.
-    p Por lo general, esta clase de alianzas se caracterizan por una confianza mutua, una comunicación abierta, y una situación en la que todas las partes salen ganando.
-    p.mb-5 Debe tener en cuenta la evaluación de las ofertas, los documentos de la compra, el envío la recepción de los pedidos, la calidad y el precio.
-    h5 Factores Clave de las alianzas estratégicas:
+    p.mb-5 Por lo general, esta clase de alianzas se caracterizan por una confianza mutua, una comunicación abierta, y una situación en la que todas las partes salen ganando.
+    h4 Factores Clave de las alianzas estratégicas:
     ul.lista-ul
       li 
         i.fas.fa-angle-right.cab-color
@@ -129,7 +128,7 @@
           .h4 Seguimiento o trazabilidad hacia delante (tracking)
           p Hace referencia a la posibilidad de seguir la ruta que va a recorrer una unidad de carga o lote. De esta forma, se puede predecir qué camino va a tomar y realizar una estimación de entrega. Es la trazabilidad más usada para informar de los pasos que va siguiendo el producto hasta el destino final en las compras online.
           p.mb-0 Seguimiento o trazabilidad hacia delante (tracking).
-    h5.text-center Proceso de trazabilidad
+    h4.text-center Proceso de trazabilidad
     img(src='@/assets/curso/tema3/f9.svg', alt='T3-F9').mb-4.p-4
     p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada Mecalux (2019)</span>
     .separador
@@ -140,7 +139,7 @@
     p Dentro de los sistemas de calidad, se enmarca la ISO (International Organization for Standardization), que es la Organización Internacional de Normalización, cuya principal actividad es: 
     p <b>… la elaboración de normas técnicas internacionales. Contribuyen a que el desarrollo, la producción y el suministro de bienes y servicios sean más eficaces, seguros y transparentes. Gracias a estas normas, los intercambios comerciales entre países son más fáciles y justos. Proporcionan a los gobiernos un fundamento técnico para la legislación en materia de salud, seguridad y medio ambiente. También contribuyen a la transferencia de tecnología a los países en vías de desarrollo y, además, sirven para proteger a los consumidores y usuarios en general, ante cualquier problema surgido de un producto o servicio, haciéndoles la vida más sencilla (ISO, 2020).</b>
     p Las certificaciones ISO acreditan que una empresa cumple la normativa vigente en la elaboración o ejecución de un producto o servicio, dentro de dichas normas, en el marco de la logística se enmarcan:
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-azul-clarito")
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-purpura-medio")
       .row(titulo="ISO 14000")
         p Establece los criterios para un sistema de gestión ambiental
       div(titulo="ISO 9001")
@@ -154,7 +153,7 @@
     .separador
     #t_3_6.titulo-segundo-cab.mb-4
       h2 3.6.	Sistemas seguridad y salud en el trabajo OSHAS 18000
-    .row.fondo-azul-clarito.align-items-center.p-5
+    .row.fondo-purpura-medio.align-items-center.p-5
       .col-lg-6.p-4
         img(src='@/assets/curso/tema3/f10.svg', alt='T3-F10', style="max-width:296px").mx-auto
       .col-lg-6

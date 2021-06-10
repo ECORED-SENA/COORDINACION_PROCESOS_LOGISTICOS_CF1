@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Diferencias entre supply chain y logística',
+            titulo: 'Planeación estratégica de logística',
             hash: 't_1_1',
           },
           {
@@ -190,8 +190,14 @@ export default {
         subMenu: [
           {
             icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Benchmarking qué es, cómo funciona, utilidad',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: '4.2.	Valor agregado',
+            titulo: 'Valor agregado',
             hash: 't_4_2',
           },
           {
@@ -228,12 +234,12 @@ export default {
       },
     ],
     subMenu: [
-      {
+      /*{
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
