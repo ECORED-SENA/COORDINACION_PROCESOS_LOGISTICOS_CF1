@@ -35,52 +35,40 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Planeación estratégica de logística',
+            titulo: 'Conceptos generales',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Conceptos generales',
+            titulo: 'Importancia de la cadena de suministros',
             hash: 't_1_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Importancia de la cadena de suministros',
+            titulo: 'Funciones de la cadena de suministros',
             hash: 't_1_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
-            titulo: 'Funciones de la cadena de suministros',
+            titulo: 'Responsabilidades en la cadena de suministros',
             hash: 't_1_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Responsabilidades en la cadena de suministros',
+            titulo:
+              'Clasificación de los subprocesos de la cadena de abastecimiento',
             hash: 't_1_6',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.7',
-            titulo: 'Clasificación de macroprocesos',
+            titulo: 'Modelos de gestión de la cadena de abastecimiento',
             hash: 't_1_7',
           },
-          /*{
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo:
-              'Clasificación de los subprocesos de la cadena de abastecimiento',
-            hash: 't_1_8',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Modelos de gestión de la cadena de abastecimiento',
-            hash: 't_1_9',
-          },*/
         ],
       },
       {
@@ -234,12 +222,12 @@ export default {
       },
     ],
     subMenu: [
-      /*{
+      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },*/
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -318,8 +306,33 @@ export default {
         regional: 'Regional Santander',
       },
       {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: [
+          'Wilson Andres Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Maria Carolina Tamayo',
+          'Nelson Vera Briceño',
+          'Ricardo Vasquez Arrovaye,',
+          'Carlos Eduardo Garavito',
+        ],
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
         nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo Front-End',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'María Isabel Román Rueda',
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },

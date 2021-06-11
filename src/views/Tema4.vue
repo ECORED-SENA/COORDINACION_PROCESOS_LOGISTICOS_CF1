@@ -12,7 +12,7 @@
       h2 4.1.	<i>Benchmarking</i> qué es, cómo funciona, utilidad
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4by9PtD7qDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
     .separador-custom
     #t_4_2.titulo-segundo-cab.mb-5
@@ -172,9 +172,9 @@
               span 10
             | Proyección y benchmarking externos.
     h3 Indicadores de compras y abastecimiento
-    p Estos indicadores están diseñados en función de evaluar y mejorar continuamente la gestión de compras y abastecimiento como factor clave en el éxito de la gestión de la cadena de suministro de la compañía, donde se pueden controlar aspectos del proceso de compras como de las negociaciones y alianzas estratégicas hechas con proveedores.
+    p.mb-5 Estos indicadores están diseñados en función de evaluar y mejorar continuamente la gestión de compras y abastecimiento como factor clave en el éxito de la gestión de la cadena de suministro de la compañía, donde se pueden controlar aspectos del proceso de compras como de las negociaciones y alianzas estratégicas hechas con proveedores.
     h3.text-center Indicador de compras y abastecimiento
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5
       table
         caption Nota. Adaptada de Mora (2008)
         thead
@@ -186,23 +186,23 @@
           tr
             td Certificación de proveedores
             td Proveedores/Total proveedores
-            td Controlar la calidad de los proveedores y el nivel de integración con los mismos
+            td Controlar la calidad de los proveedores y el nivel de integración con los mismos.
           tr
             td Calidad de los pedidos generados
             td Pedidos generados sin problema/Total pedido generados * 100
-            td Controlar la calidad de los pedidos generados por el área de compras
+            td Controlar la calidad de los pedidos generados por el área de compras.
           tr
             td Volumen de compra
             td Valor de compra/Total de las ventas
-            td Controla la evolución del volumen de compra en relación con el volumen de venta
+            td Controla la evolución del volumen de compra en relación con el volumen de venta.
           tr
             td Entregas recibidas
             td Pedidos rechazados/Total órdenes de compra recibidas *100
-            td Controlar la calidad de los productos/materiales recibidos, y la puntualidad de las entregas de los proveedores de mercancía
+            td Controlar la calidad de los productos/materiales recibidos, y la puntualidad de las entregas de los proveedores de mercancía.
     h3 Indicadores de almacenamiento y bodegaje
-    p La gestión de almacenamiento debe estar totalmente alineada con la gestión de aprovisionamiento y distribución, por lo tanto, el control sobre los procesos generados al interior del centro de distribución o almacén es determinante en cuanto al impacto de los costos de operación sobre la operación logística.
+    p.mb-5 La gestión de almacenamiento debe estar totalmente alineada con la gestión de aprovisionamiento y distribución, por lo tanto, el control sobre los procesos generados al interior del centro de distribución o almacén es determinante en cuanto al impacto de los costos de operación sobre la operación logística.
     h3.text-center Indicador de almacenamiento y bodegaje
-    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
+    .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center.mb-5
       table
         caption Nota. Adaptada de Mora (2008)
         thead
@@ -214,15 +214,15 @@
           tr
             td Costo de unidad almacenada
             td Costo del almacenamiento/Número de unidades almacenadas
-            td Controlar el valor unitario del costo por almacenamiento propio o contratado
+            td Controlar el valor unitario del costo por almacenamiento propio o contratado.
           tr 
             td Costo de unidad despachada
             td Costo de operación bodega/Total unidades despachadas
-            td Controlar los costos unitarios por manejo de las unidades de carga de la bodega
+            td Controlar los costos unitarios por manejo de las unidades de carga de la bodega.
           tr
             td Nivel de cumplimento en despacho
             td Número de despachos cumplidos a tiempo/Número total de despachos requeridos
-            td Controlar la eficacia de los despachos efectuados por el centro de distribución
+            td Controlar la eficacia de los despachos efectuados por el centro de distribución.
     .separador-custom
     #t_4_5.titulo-segundo-cab.mb-5
       h2 4.5. Medición del desempeño logística interna
@@ -240,23 +240,23 @@
           tr
             td Capacidad de producción utilizada
             td Capacidad utilizada/Capacidad máxima del recurso
-            td Controlar la utilización efectiva de las instalaciones (productivas, de almacenaje o transporte) de la compañía
+            td Controlar la utilización efectiva de las instalaciones (productivas, de almacenaje o transporte) de la compañía.
           tr
             td Rendimiento de máquina
             td Número de unidades productivas/Capacidad máxima del recurso *100
-            td Controlar la productividad de una máquina de manufactura con respecto a la capacidad máxima de utilización posible
+            td Controlar la productividad de una máquina de manufactura con respecto a la capacidad máxima de utilización posible.
           tr
             td Rotación de mercancía
             td Ventas acumuladas/Inventario promedio
-            td Controlar la cantidad de los productos/materiales despachados desde el centro de distribución
+            td Controlar la cantidad de los productos/materiales despachados desde el centro de distribución.
           tr
             td Duración del inventario
             td Inventario final/Ventas promedio *30 días
-            td Controlar los días de inventario disponible de la mercancía almacenada en el centro de distribución
+            td Controlar los días de inventario disponible de la mercancía almacenada en el centro de distribución.
           tr
             td Vejez del inventario
             td Unidades dañadas + obsoletas + vendidas/Unidades disponibles en el inventario
-            td Controlar el nivel de las mercancías no disponibles para despacho por obsolescencias, mal estado y otros
+            td Controlar el nivel de las mercancías no disponibles para despacho por obsolescencias, mal estado y otros.
     .separador-custom
     #t_4_6.titulo-segundo-cab.mb-5
       h2 4.6.	 Medición del desempeño logística de salida
@@ -274,15 +274,15 @@
           tr
             td Costo de transporte Vs. venta
             td Costo del transporte/Valor ventas totales *100
-            td Controlar el costo del transporte respecto a las ventas de la empresa
+            td Controlar el costo del transporte respecto a las ventas de la empresa.
           tr
             td Costo operativo por conductor
             td Costo total transporte/Número de conductores
-            td Controlar la contribución de cada conductor dentro de los gastos totales de transporte
+            td Controlar la contribución de cada conductor dentro de los gastos totales de transporte.
           tr
             td Comparativo costo de transporte
             td Costo de transporte propio por unidad/Costo de contratar transporte por unidad
-            td Controlar los gastos propios de unidades transportadas con los que ofrece el mercado de terceros
+            td Controlar los gastos propios de unidades transportadas con los que ofrece el mercado de terceros.
     .separador-custom
     #t_4_7.titulo-segundo-cab.mb-5
       h2 4.7.	Sistemas de recolección de información

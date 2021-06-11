@@ -14,10 +14,10 @@
           .bloque-texto-a__texto.p-4
             p La cadena de suministro o supply chain es el proceso que se genera desde que el cliente realiza un pedido hasta que el producto o servicio ha sido entregado y cobrado. Por tanto, la supply chain comprende la planificación, ejecución y control de todas las actividades relacionadas con el flujo de materiales y de información desde la compra de materias primas hasta la entrega final del producto al cliente, pasando por su transformación intermedia (Castellanos, 2015).
     p.mb-5 En consecuencia, se puede definir la cadena de suministro como el conjunto de pasos y redes que se tejen desde el origen del producto hasta el cliente final. Esta cadena está compuesta por distintos proveedores y empresas que van abasteciendo en cada uno de los siguientes eslabones.
-    h5.text-center.mb-5 Diferentes etapas de la cadena de suministro
+    h4.text-center.mb-5 Diferentes etapas de la cadena de suministro
     .col-lg-10.mx-auto.tarjeta.fondo-purpura-clarito.py-4
       img(src='@/assets/curso/tema1/f2.svg', alt='T1-F2').mb-4
-      p.text-center <span style="font-size:13px">Nota. Tomada de Mecalux (2019)</span>
+      p <span style="font-size:.8rem">Nota. Tomada de Mecalux (2019)</span>
     p.mb-5 La cadena de suministro hace referencia al flujo completo que sigue un producto hasta su venta; en cambio, la logística forma parte de la cadena de suministro y se trata de una disciplina centrada en el almacenamiento de productos, en su transporte y su distribución.<br><br>De esta forma, la logística es el área empresarial responsable de hacer llegar el producto correcto, al destino indicado en el tiempo establecido, en las cantidades precisas, con el coste y la calidad requeridas siempre en consonancia con las condiciones que han sido previamente acordadas con el cliente.
     h4.mb-5.text-center Diferencias entre la cadena de suministro y la logística
     .tabla-a.color-acento-botones.mb-5 
@@ -26,8 +26,8 @@
         thead
           tr
             th.tfilathin
-            th Gestión de la cadena de suministro
-            th Gestión logística
+            th <span style=font-size:1.1rem>Gestión de la cadena de suministro</span>
+            th <span style=font-size:1.1rem>Gestión logística</span>
         tbody
           tr
             td.text-center Definición
@@ -54,11 +54,11 @@
     p.mb-5 Al igual que cualquier actividad empresarial, el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad, para conseguirlo, se debe efectuar una planeación dentro de la empresa, la cual puede cubrir los siguientes niveles: <b>planeación estratégica; planeación táctica; planeación operativa.</b>
     .col-lg-8.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4.mb-5
-        .h2 … el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad…
+        .h3 … el objetivo clave de la logística es lograr una tasa de retorno de la inversión más elevada y mejorar la rentabilidad…
     h4.mb-5.text-center La cadena logística y sus niveles estratégicos
     .col-lg-8.mx-auto.tarjeta.fondo-purpura-clarito.py-4.mb-5
       img(src='@/assets/curso/tema1/f3.svg', alt='T1-F3').mb-4
-      p.text-center <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
+      p <span style="font-size:.8rem">Nota. Tomada de Castellanos (2015)</span>
     ul.lista-ul.mb-5
         li 
           i.fas.fa-angle-right.cab-color
@@ -75,7 +75,7 @@
         img(src='@/assets/curso/tema1/f4.svg', alt='T1-F4')._93px.mx-auto.my-4
       .col
         p.texto-blanco <b>Base de Datos:</b> Biblioteca SENA<br><b>Recursos:</b> E-Book 7-24<br><b>Libro:</b> Conceptos de administración estratégica<br>Autor: David (2013)<br><b>Capítulo:</b> 1 al 6
-        p.texto-blanco <span style="font-size:13px">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
+        p.texto-blanco <span style="font-size:.8rem">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
       .col-lg-2
         a.boton.color-acento-botones.mx-auto.indicador__container(
           href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5029&pg=30"
@@ -149,7 +149,7 @@
       img(src='@/assets/curso/tema1/f9.svg', alt='T1-F9').mb-5
     .col-lg-10.mx-auto
       img(src='@/assets/curso/tema1/f10.svg', alt='T1-F10').mb-4
-      p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Universidad Tecnológica de Chile (2017)</span>
+      p.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada de Universidad Tecnológica de Chile (2017)</span>
     .separador-custom
     #t_1_6.titulo-segundo-cab.mb-4
       h2 1.6.	Clasificación de los subprocesos de la cadena de abastecimiento

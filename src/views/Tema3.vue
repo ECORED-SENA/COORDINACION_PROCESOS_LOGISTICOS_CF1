@@ -39,7 +39,7 @@
         p.mb-0 Una alianza estratégica es una relación comercial en la que dos o más organizaciones independientes deciden trabajar juntas para lograr objetivos específicos. Las alianzas son estratégicas cuando ofrecen una ventaja competitiva a las parte s involucradas.
     p El objetivo de crear alianzas estratégicas con los proveedores es trabajar juntos para mejorar la eficiencia de las operaciones de ambas compañías, con esto se logra eliminar costos de sus sistemas logísticos, incrementar su rentabilidad y mejorar el servicio final al consumidor.
     p.mb-5 Por lo general, esta clase de alianzas se caracterizan por una confianza mutua, una comunicación abierta, y una situación en la que todas las partes salen ganando.
-    h4 Factores Clave de las alianzas estratégicas:
+    h4.mb-4 Factores Clave de las alianzas estratégicas:
     ul.lista-ul
       li 
         i.fas.fa-angle-right.cab-color
@@ -130,7 +130,7 @@
           p.mb-0 Seguimiento o trazabilidad hacia delante (tracking).
     h4.text-center Proceso de trazabilidad
     img(src='@/assets/curso/tema3/f9.svg', alt='T3-F9').mb-4.p-4
-    p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada Mecalux (2019)</span>
+    p.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada Mecalux (2019)</span>
     .separador-custom
     #t_3_5.titulo-segundo-cab.mb-4
       h2 3.5.	Sistemas de gestión de calidad
@@ -160,7 +160,7 @@
         h3 OSHAS 18000
         p Otra norma internacional que las empresas buscan es la OHSAS 18001 que se enfoca en identificar, adaptar y controlar los riesgos evitando los accidentes laborales, esta norma está identificada como una de las más comprometidas con la salud y seguridad en el trabajo como se puede ver a continuación: 
         a.boton.color-acento-botones.mx-auto.indicador__container(
-          href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/96908?page=275"
+          :href="obtenerLink('/downloads/InfografiaSistemas seguridadysaludeneltrabajoOHSAS18000.pdf')"
           target="_blank"
           @mouseover="mostrarIndicador = false"
         )

@@ -23,7 +23,7 @@
         img(src='@/assets/curso/tema1/f4.svg', alt='T1-F4')._93px.mx-auto.my-4
       .col
         p.texto-blanco <b>Base de Datos:</b> biblioteca SENA<br><b>Recursos:</b> e-libro<br><b>Libro: </b><i>La logística en la empresa: un área estratégica para alcanzar ventajas competitivas</i><br>Autor: Núñez y López (2015)<br><b>Página:</b> 61 al 64
-        p.texto-blanco <span style="font-size:13px">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
+        p.texto-blanco <span style="font-size:.8rem">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
       .col-lg-2
         a.boton.color-acento-botones.mx-auto.indicador__container(
           href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/48968?page=62"
@@ -59,12 +59,12 @@
         figure
           p Define el momento de verdad para la operación logística de una organización, donde se evalúa la eficiencia y efectividad de los procesos integrados en la cadena de suministro. Incluye todas las actividades inherentes a la administración del producto terminado (recibo, almacenamiento y despacho), esta operación se ejecuta a través de herramientas y procedimientos específicos como el picking, el crossdocking, la valoración y elección del modo de transporte adecuado según el tipo de mercancía que se manipula, además de la implementación de tecnologías de información y comunicación (TIC) que permita contar con datos reales en tiempo real y que se materializan en decisiones oportunas y un incremento en la capacidad de respuesta para el cliente y todos los actores involucrados como competencia y proveedores.
     .col-lg-8.mx-auto.py-4
-      h5.text-center Divisiones de la logística
+      h4.text-center Divisiones de la logística
       img(src='@/assets/curso/tema2/f5.svg', alt='T2-F5').mb-4.p-4
-      p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Rojas, Guisao y Cano (2011)</span>
+      p.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada de Rojas, Guisao y Cano (2011)</span>
     .col-lg-8.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4
-        p.mb-0 Al gestionar estas tres logísticas, se busca convertir la cadena de suministro de la empresa en un proceso eficiente para la satisfacción del cliente, es decir, <b>la efectividad de toda la cadena debe ser más importante que la efectividad de cada una por separado</b>, a través de sus diferentes funciones.
+        p.mb-0 <span style="font-size:1.2rem">Al gestionar estas tres logísticas, se busca convertir la cadena de suministro de la empresa en un proceso eficiente para la satisfacción del cliente, es decir, <b>la efectividad de toda la cadena debe ser más importante que la efectividad de cada una por separado</b>, a través de sus diferentes funciones.</span>
     .separador-custom
     #t_2_4.titulo-segundo-cab.mb-4
       h2 2.4.	Clasificación de los subproceso de la cadena de abastecimiento
@@ -75,7 +75,7 @@
     .col-lg-7.mx-auto.py-4
       h5.text-center Ciclo del abastecimiento
       img(src='@/assets/curso/tema2/f6.svg', alt='T2-F6').mb-4.p-4
-      p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Universidad Tecnológica de Chile (2017)</span>
+      p.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada de Universidad Tecnológica de Chile (2017)</span>
     p En consecuencia, en toda actividad de aprovisionamiento se implican unas actividades y acciones a nivel operativo y administrativo a saber:
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta fondo-casi-blanco")
       .row(titulo="Decisión")
@@ -96,7 +96,7 @@
         .col-lg-6
           h5.text-center Aspectos clave para la selección de proveedores
           img(src='@/assets/curso/tema2/f7.svg', alt='T2-F7').p-4
-          p <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
+          p <span style="font-size:.8rem">Nota. Tomada de Castellanos (2015)</span>
       div(titulo="Compra")
         p Debe tener en cuenta la evaluación de las ofertas, los documentos de la compra, el envío la recepción de los pedidos, la calidad y el precio.
         ul.lista-ul.mb-5
@@ -117,7 +117,7 @@
             p <b>Almacenamiento:</b> dar ubicación específica a cualquier material (materias primas, productos semielaborados terminados), con el fin de ubicarlos oportunamente cuando sea requerido y optimizar los espacios.<br><br>La función principal de la gestión del almacén o bodega consiste en optimizar los flujos físicos, además de definir los criterios para seleccionar los materiales que saldrán a atender una petición.<br><br>En el proceso de almacenamiento se interrelacionan actividades, tales como pedidos, inventarios, etc., los cuales se resumen en el siguiente esquema:
           h5.text-center Actividades de la gestión de almacenamiento
           img(src='@/assets/curso/tema2/f8.svg', alt='T2-F8').p-4
-          p <span style="font-size:13px">Nota Tomada de Castellanos (2015)</span>
+          p <span style="font-size:.8rem">Nota Tomada de Castellanos (2015)</span>
       div(titulo="Servicio")
         p De acuerdo con lo establecido en la negociación, se encuentra el mantenimiento y el servicio al cliente.
     h3 Logística de producción
@@ -126,7 +126,7 @@
     .col-lg-6.mx-auto
       h4.text-center Gestión de coordinación de procesos de producción
       img(src='@/assets/curso/tema2/f9.svg', alt='T2-F9').p-4
-      p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
+      p.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada de Castellanos (2015)</span>
     h3 Logística de distribución
     p Una vez los productos han sido elaborados, terminados y almacenados, el siguiente paso consiste en organizar la distribución y transporte de los productos, a fin de cubrir la demanda del mercado y llevarlos hasta su destino final.
     .col-lg-8.mx-auto.mb-5
@@ -134,7 +134,7 @@
         p.mb-0 La gestión de distribución es la más crítica en las empresas, ya que supone el contacto con el cliente. Además, porque aquí se desarrollan todas aquellas actividades que ayudan a completar las órdenes de pedido con el fin de asegurar el servicio al cliente.
     h4.text-center Gestión de coordinación de procesos
     img(src='@/assets/curso/tema2/f10.svg', alt='T2-F10').p-4
-    p.text-center.fondo-casi-blanco <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
+    p.text-center.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada de Castellanos (2015)</span>
     .separador-custom
     #t_2_5.titulo-segundo-cab.mb-4
       h2 2.5.	Logística inversa o de reversa
@@ -145,7 +145,7 @@
     h4.text-center.mb-5 Actividades de logística inversa
     .col-lg-10.mx-auto.tarjeta.fondo-purpura-clarito.py-4.mb-5
       img(src='@/assets/curso/tema2/f11.svg', alt='T2-F11').mb-4
-      p.text-center <span style="font-size:13px">Nota. Tomada de Castellanos (2015)</span>
+      p <span style="font-size:.8rem">Nota. Tomada de Castellanos (2015)</span>
     .col-lg-8.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4
         p.mb-0 Para la implementación de una política de devoluciones, se debe tener claridad del proceso y establecer los plazos, estado del producto, documentación necesaria, etc.
@@ -210,8 +210,8 @@
       .col-lg-2
         img(src='@/assets/curso/tema1/f4.svg', alt='T1-F4')._93px.mx-auto.my-4
       .col
-        p.texto-blanco <b>Base de Datos:</b> biblioteca SENA<br><b>Recursos:</b> e-book 7-24<br><b>Libro: </b><i>gestión logística integral. Las mejores prácticas en la cadena de abastecimiento</i><br>Autor: (Mora, L. A., 2010)<br><b>Página:</b> 249 al 254 del libro, el tema es “4.2.3. Operadores logísticos de mercancía”
-        p.texto-blanco <span style="font-size:13px">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
+        p.texto-blanco <b>Base de Datos:</b> biblioteca SENA<br><b>Recursos:</b> e-book 7-24<br><b>Libro: </b><i>Gestión logística integral. Las mejores prácticas en la cadena de abastecimiento</i><br>Autor: (Mora, L. A., 2010)<br><b>Página:</b> 249 al 254 del libro, el tema es “4.2.3. Operadores logísticos de mercancía”
+        p.texto-blanco <span style="font-size:.8rem">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
       .col-lg-2
         a.boton.color-acento-botones.mx-auto.indicador__container(
           href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/96908?page=275"
