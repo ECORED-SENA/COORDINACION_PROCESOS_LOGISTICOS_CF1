@@ -13,7 +13,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4by9PtD7qDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Adaptando un concepto del Diario del Exportador (2020) se puede decir que el benchmarking es el proceso continuo de medición de nuestros procesos y servicios frente a los de los competidores o a los de aquellas compañías reconocidas como los líderes, permitiendo identificar y adoptar prácticas de clase mundial.
     .separador-custom
     #t_4_2.titulo-segundo-cab.mb-5
       h2 4.2.	Valor agregado
@@ -260,7 +260,7 @@
     .separador-custom
     #t_4_6.titulo-segundo-cab.mb-5
       h2 4.6.	 Medición del desempeño logística de salida
-    p La distribución es una función logística vital para el desempeño exitoso de la compañía, por lo tanto, es fundamental poder controlar los costos y productividad asociados a la gestión de la misma, particularmente de la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos dentro de la gestión logística por su fuerte impacto en inversiones de activos fijos y respuesta al cliente final.
+    p.mb-5 La distribución es una función logística vital para el desempeño exitoso de la compañía, por lo tanto, es fundamental poder controlar los costos y productividad asociados a la gestión de la misma, particularmente de la gestión del transporte la cual es la actividad que más consume recursos y esfuerzos dentro de la gestión logística por su fuerte impacto en inversiones de activos fijos y respuesta al cliente final.
     h3.text-center Indicador de transporte y distribución
     .tabla-a.color-acento-contenido.mb-5.tablaAzul.text-center
       table

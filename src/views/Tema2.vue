@@ -67,7 +67,7 @@
         p.mb-0 <span style="font-size:1.2rem">Al gestionar estas tres logísticas, se busca convertir la cadena de suministro de la empresa en un proceso eficiente para la satisfacción del cliente, es decir, <b>la efectividad de toda la cadena debe ser más importante que la efectividad de cada una por separado</b>, a través de sus diferentes funciones.</span>
     .separador-custom
     #t_2_4.titulo-segundo-cab.mb-4
-      h2 2.4.	Clasificación de los subproceso de la cadena de abastecimiento
+      h2 2.4.	Clasificación de los subprocesos de la cadena de abastecimiento
     p Es fundamental contar con el apoyo de los demás integrantes de la cadena de abastecimiento, los cuales se relacionan a continuación.
     h3 Logística de aprovisionamiento.
     p Es la gestión de asegurar el abastecimiento de las mercancías necesarias para la producción, con el fin de evitar faltantes a los clientes. El aprovisionamiento contempla todos procesos y actividades destinadas a controlar el suministro que realizan los diferentes proveedores con los que cuenta la empresa en el desarrollo de sus operaciones. 
@@ -131,7 +131,7 @@
     p Una vez los productos han sido elaborados, terminados y almacenados, el siguiente paso consiste en organizar la distribución y transporte de los productos, a fin de cubrir la demanda del mercado y llevarlos hasta su destino final.
     .col-lg-8.mx-auto.mb-5
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-5
-        p.mb-0 La gestión de distribución es la más crítica en las empresas, ya que supone el contacto con el cliente. Además, porque aquí se desarrollan todas aquellas actividades que ayudan a completar las órdenes de pedido con el fin de asegurar el servicio al cliente.
+        p.mb-0 <span style="font-size:1.2rem">La gestión de distribución es la más crítica en las empresas, ya que supone el contacto con el cliente. Además, porque aquí se desarrollan todas aquellas actividades que ayudan a completar las órdenes de pedido con el fin de asegurar el servicio al cliente.</span>
     h4.text-center Gestión de coordinación de procesos
     img(src='@/assets/curso/tema2/f10.svg', alt='T2-F10').p-4
     p.text-center.fondo-casi-blanco <span style="font-size:.8rem">Nota. Tomada de Castellanos (2015)</span>
