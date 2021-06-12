@@ -177,7 +177,12 @@
     #t_1_7.titulo-segundo-cab.mb-4
       h2 1.7.	Modelos de gestión de la cadena de abastecimiento
     p La importancia de tecnólogos o profesionales en el sector es cada vez mejor vista y más importante tal como lo dice Mora (2010):
-    p <b>… el papel del profesional cobra una mayor preponderancia en las empresas modernas, en la medida que se convierte en un agente integrador de todas las áreas funcionales de la compañía; en especial de aquéllas que interactúan directamente con los distintos actores de su cadena de abastecimiento, desde proveedores hasta los clientes, pasando por competidores, socios comerciales, usuarios internos, entidades gubernamentales y asociativas (s.p.).</b>
+    .col-lg-10.mx-auto.mb-4
+      .bloque-texto-b.fondo-purpura-medio.p-4
+        .bloque-texto-b__texto
+          i.fas.fa-quote-left
+          span.h4.mb-0 el papel del profesional cobra una mayor preponderancia en las empresas modernas, en la medida que se convierte en un agente integrador de todas las áreas funcionales de la compañía; en especial de aquéllas que interactúan directamente con los distintos actores de su cadena de abastecimiento, desde proveedores hasta los clientes, pasando por competidores, socios comerciales, usuarios internos, entidades gubernamentales y asociativas (s.p.).
+          i.fas.fa-quote-right
     p Lo anterior, deja entrever la necesidad de formar en un renacimiento empresarial constante personal en esta área que sea consciente de su importancia y la asuma con la responsabilidad necesaria en cada momento.
     .col-lg-10.mx-auto
       .cajon.color-acento-botones.fondo-rojizo-clarito.p-4

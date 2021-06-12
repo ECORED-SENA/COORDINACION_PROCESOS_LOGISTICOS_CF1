@@ -422,14 +422,10 @@ export default {
     {
       referencia:
         'Revista de Logística Legis. (2016). Creación y valor agregado a partir de la gestión de la cadena de suministro.',
-      link:
-        'https://revistadelogistica.com/actualidad/creacion-y-valor-agregado-a-partir-de-la-gestion-de-la-cadena-de-suministro/',
     },
     {
       referencia:
         'Revista de Logística Legis. (2016). La logística después de la logística. Obtenido de Revista de Logística Legis:',
-      link:
-        'https://revistadelogistica.com/actualidad/la-logistica-despues-de-la-logistica/',
     },
     {
       referencia: 'Riveros P., G. (2015). Marketing logístico. Ecoe Ediciones.',
