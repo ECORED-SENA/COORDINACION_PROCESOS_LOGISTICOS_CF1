@@ -90,27 +90,13 @@
         p El seguimiento e implementación del Convenio está en cabeza de los Ministerios de Ambiente y Desarrollo Sostenible y de Salud y Protección Social, así como del Instituto Colombiano Agropecuario ICA.
     .separador-custom
     #t_3_4.titulo-segundo-cab.mb-4
-      h2 3.4.	Trazabilidad en los procesos logísticos
-    p Ocampo (2009) establece para este tema lo siguiente: “La trazabilidad logística hace referencia a la posibilidad de identificar el origen y las distintas etapas por las que pasa un producto a lo largo de todo el proceso productivo y su posterior distribución logística hasta llegar al consumidor final”, por tanto, un sistema de trazabilidad comprende un conjunto de procedimientos que permiten conocer la ubicación de un producto en la cadena de suministro en cada momento, así como rastrear su recorrido o saber de antemano qué camino va a seguir.
-    p Poner en marcha un sistema de trazabilidad implica establecer una correspondencia directa entre el flujo físico de mercancías y el flujo de información que va asociado a él.
-    p Las ventajas de los sistemas de trazabilidad logística son múltiples para cada parte:
-    .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-secundario.p-5
-        .row.justify-content-center.mb-4
-          .col-6
-            figure
-              img(src='@/assets/curso/tema3/f5.svg', alt='T3-F5', style="width:150px").mx-auto
-          
-        .h2.text-center Para las empresas
-        p Les ayuda a identificar puntos críticos a lo largo de la cadena de suministro para así solventar las incidencias y ganar en productividad. De esta forma, pueden rebajar los problemas relacionados con la mala manipulación o la contaminación de las mercancías incrementando la calidad del servicio que ofrecen.
-      .col-md.tarjeta.color-acento-contenido.p-5
-        .row.justify-content-center.mb-4
-          .col-6
-            figure
-              img(src='@/assets/curso/tema3/f6.svg', alt='T3-F6', style="width:150px").mx-auto
-          
-        .h2.text-center Para los consumidores
-        p Mejora la confianza de cara a la compra de productos y servicios, sobre todo en una economía globalizada con complejos flujos de mercancías nacionales e internacionales. Además, con el auge del e-commerce, la trazabilidad de las mercancías ha pasado a un primer plano, ya que atenúa la “incertidumbre del tránsito” que sufren muchos compradores online y que está relacionada con los nuevos paradigmas de la logística omnicanal y la e-logística.
+      h2 3.4.	Trazabilidad en los procesos logísticos   
+    
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/PUOOkuzzSnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Ocampo (2009) establece para este tema lo siguiente: “La trazabilidad logística hace referencia a la posibilidad de identificar el origen y las distintas etapas por las que pasa un producto a lo largo de todo el proceso productivo y su posterior distribución logística hasta llegar al consumidor final”, por tanto, un sistema de trazabilidad comprende un conjunto de procedimientos que permiten conocer la ubicación de un producto en la cadena de suministro en cada momento, así como rastrear su recorrido o saber de antemano qué camino va a seguir.     
+
     h3 Tipos de trazabilidad logística
     p Acá se presentan dos tipos de trazabilidad logística que se deben considerar indispensable.
     .tarjeta-avatar-b

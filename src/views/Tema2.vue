@@ -47,17 +47,23 @@
     .separador-custom
     #t_2_3.titulo-segundo-cab.mb-4
       h2 2.3.	Clasificación de macroprocesos como actores de la cadena
-    p Cumplirle al cliente tiene una serie de novedades que no se pueden enumerar en algunos casos, pues “son muchos los puntos críticos que se manejan durante la gestión de la cadena, y para su administración y cumplimiento debemos contar con elementos de apoyo imprescindibles para gestionarla correctamente” (Rojas, Guisao y Cano, 2001). Al gestionar estas logísticas se logra identificar y establecer la movilización entre las diferentes unidades, a diseñar diferentes pasos o caminos para lograr su fin principal: cumplirle al cliente.
-    p A continuación, se presentan los actores de la cadena:
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fondo-purpura-clarito")
-      .row(titulo="Logística de entrada")
-        p Contempla las actividades necesarias para cumplir con el abastecimiento de los productos, garantizando los recursos disponibles para su transformación o venta. Esto implica actividades de: pronóstico de la demanda, aprovisionamiento y compras, gestión de inventarios y gestión de almacenamiento de materias primas.
-      div(titulo="Logística interna")
-        figure
-          p Abarca las actividades involucradas en la transformación de materias primas en productos terminados, y en las actividades de adición de valor a bienes o servicios durante su fabricación, involucra procesos como son la estandarización de métodos y tiempos de procesos (ingeniería básica), la programación de producción, el mantenimiento productivo total, sistemas de planeación y ejecución de producción como los sistemas justo a tiempo (JIT), entre otros.
-      div(titulo="Logística de salida")
-        figure
-          p Define el momento de verdad para la operación logística de una organización, donde se evalúa la eficiencia y efectividad de los procesos integrados en la cadena de suministro. Incluye todas las actividades inherentes a la administración del producto terminado (recibo, almacenamiento y despacho), esta operación se ejecuta a través de herramientas y procedimientos específicos como el picking, el crossdocking, la valoración y elección del modo de transporte adecuado según el tipo de mercancía que se manipula, además de la implementación de tecnologías de información y comunicación (TIC) que permita contar con datos reales en tiempo real y que se materializan en decisiones oportunas y un incremento en la capacidad de respuesta para el cliente y todos los actores involucrados como competencia y proveedores.
+    p Cumplirle al cliente tiene una serie de novedades que no se pueden enumerar en algunos casos, pues “son muchos los puntos críticos que se manejan durante la gestión de la cadena, y para su administración y cumplimiento debemos contar con elementos de apoyo imprescindibles para gestionarla correctamente” (Rojas, Guisao y Cano, 2001). Al gestionar estas logísticas se logra identificar y establecer la movilización entre las diferentes unidades, a diseñar diferentes pasos o caminos para lograr su fin principal: cumplirle al cliente.    
+
+    .row.fondo-purpura-medio.align-items-center.p-5.mb-5
+      .col-lg-6.p-4
+        img(src='@/assets/curso/tema3/f10.svg', alt='T3-F10', style="max-width:296px").mx-auto
+      .col-lg-6
+        h3 Actores de la cadena
+        p Mediante este recurso infográfico el aprendiz podrá conocer cada uno de los macroprocesos como actores de la cadena.
+        a.boton.color-acento-botones.mx-auto.indicador__container(
+          :href="obtenerLink('/downloads/I_CF1_Actores de la Cadena.pdf')"
+          target="_blank"
+          @mouseover="mostrarIndicador = false"
+        )
+          span.texto-blanco Descargar
+          i.fas.fa-file-download.texto-blanco
+          .indicador--click(v-if="mostrarIndicador")
+
     .col-lg-8.mx-auto.py-4
       h4.text-center Divisiones de la logística
       img(src='@/assets/curso/tema2/f5.svg', alt='T2-F5').mb-4.p-4
@@ -196,7 +202,7 @@
     p <b>… el CPFR, acrónimo de Planificación Colaborativa, Pronóstico y Reabastecimiento, es un proceso de colaboración por el que los socios comerciales de la cadena de suministro pueden planificar conjuntamente las actividades clave de la cadena de suministro”, se debe tener en cuenta desde la producción y el suministro de materias primas a la producción hasta la entrega de productos finales a los clientes finales. La colaboración abarca la planificación empresarial, la previsión de ventas, y todas las operaciones necesarias para reponer las materias primas y productos terminados.</b>
     p El objetivo de CPFR es mejorar la integración de la cadena de suministro convirtiéndola de un aislado, ineficaz e ineficiente sistema “push” o de forma coordinada, a un sistema “pull” basado en la demanda del cliente final.
     p La CPFR es una práctica de negocios que establece una planeación, reabastecimiento y pronósticos compartidos a través de toda la cadena de suministro fundamentado en una visibilidad total de la información de entrada en toda la cadena. Crea necesidad de sistemas integrados de comunicación con el fin de identificar patrones de conducta del cliente que contribuya al mejoramiento del pronóstico de ventas, creación de programas de gestión de inventarios y estándares de empaque; esta dinámica proporciona a la empresa una plataforma clara para llevar a cabo el reabastecimiento, de una manera planeada y en consenso.
-    h5.text-center Proceso CPFR
+    h5.text-center.mb-0 Proceso CPFR
     .col-lg-10.mx-auto.py-4.mb-5
       img(src='@/assets/curso/tema2/f12.svg', alt='T2-F12').mb-4
       .col-lg-3.mx-auto

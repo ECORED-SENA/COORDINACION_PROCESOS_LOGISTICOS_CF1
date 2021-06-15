@@ -11,8 +11,8 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Zas-nYiyYw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption La cadena de suministro o supply chain es el proceso que se genera desde que el cliente realiza un pedido hasta que el producto o servicio ha sido entregado y cobrado.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/HyBD-xmqO3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption La cadena de suministro o supply chain es el proceso que se genera desde que el cliente realiza un pedido hasta que el producto o servicio ha sido entregado y cobrado.     
 
 </template>
 
