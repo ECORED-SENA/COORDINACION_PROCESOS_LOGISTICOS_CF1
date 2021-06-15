@@ -150,7 +150,7 @@ export default {
             hash: 't_3_3',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '3.4',
             titulo: 'Trazabilidad en los procesos logísticos',
             hash: 't_3_4',
@@ -177,7 +177,7 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '4.1',
             titulo: 'Benchmarking qué es, cómo funciona, utilidad',
             hash: 't_4_1',
@@ -425,7 +425,7 @@ export default {
     },
     {
       referencia:
-        'Revista de Logística Legis. (2016). La logística después de la logística. Obtenido de Revista de Logística Legis:',
+        'Revista de Logística Legis. (2016). La logística después de la logística.',
     },
     {
       referencia: 'Riveros P., G. (2015). Marketing logístico. Ecoe Ediciones.',
