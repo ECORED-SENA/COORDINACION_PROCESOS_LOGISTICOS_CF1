@@ -146,7 +146,7 @@
         h3 OSHAS 18000
         p Otra norma internacional que las empresas buscan es la OHSAS 18001 que se enfoca en identificar, adaptar y controlar los riesgos evitando los accidentes laborales, esta norma está identificada como una de las más comprometidas con la salud y seguridad en el trabajo como se puede ver a continuación: 
         a.boton.color-acento-botones.mx-auto.indicador__container(
-          :href="obtenerLink('/downloads/InfografiaSistemas seguridadysaludeneltrabajoOHSAS18000.pdf')"
+          :href="obtenerLink('downloads/InfografiaSistemas seguridadysaludeneltrabajoOHSAS18000.pdf')"
           target="_blank"
           @mouseover="mostrarIndicador = false"
         )

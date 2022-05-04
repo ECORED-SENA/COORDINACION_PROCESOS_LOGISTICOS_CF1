@@ -74,11 +74,11 @@
       .col-lg-2
         img(src='@/assets/curso/tema1/f4.svg', alt='T1-F4')._93px.mx-auto.my-4
       .col
-        p.texto-blanco <b>Base de Datos:</b> Biblioteca SENA<br><b>Recursos:</b> E-Book 7-24<br><b>Libro:</b> Conceptos de administración estratégica<br>Autor: David (2013)<br><b>Capítulo:</b> 1 al 6
+        p.texto-blanco <b>Libro:</b> Conceptos de administración estratégica<br>Autor: David (2013)<br><b>Capítulo:</b> 1 al 6
         p.texto-blanco <span style="font-size:.8rem">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
       .col-lg-2
         a.boton.color-acento-botones.mx-auto.indicador__container(
-          href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5029&pg=30"
+          href="https://laurabatres.files.wordpress.com/2018/06/conceptos-de-administracion-estrategica-14edi-david.pdf"
           target="_blank"
           @mouseover="mostrarIndicador = false"
         )

@@ -206,7 +206,7 @@
     .col-lg-10.mx-auto.py-4.mb-5
       img(src='@/assets/curso/tema2/f12.svg', alt='T2-F12').mb-4
       .col-lg-3.mx-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF1_4_GRAFICO_INTERACTIVO.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('downloads/CF1_4_GRAFICO_INTERACTIVO.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -216,7 +216,7 @@
       .col-lg-2
         img(src='@/assets/curso/tema1/f4.svg', alt='T1-F4')._93px.mx-auto.my-4
       .col
-        p.texto-blanco <b>Base de Datos:</b> biblioteca SENA<br><b>Recursos:</b> e-book 7-24<br><b>Libro: </b><i>Gestión logística integral. Las mejores prácticas en la cadena de abastecimiento</i><br>Autor: (Mora, L. A., 2010)<br><b>Página:</b> 249 al 254 del libro, el tema es “4.2.3. Operadores logísticos de mercancía”
+        p.texto-blanco <b>Base de Datos:</b> biblioteca SENA<br><b>Recursos:</b> e-libro<br><b>Libro: </b><i>Gestión logística integral. Las mejores prácticas en la cadena de abastecimiento</i><br>Autor: (Mora, L. A., 2010)<br><b>Página:</b> 249 al 254 del libro, el tema es “4.2.3. Operadores logísticos de mercancía”
         p.texto-blanco <span style="font-size:.8rem">Estimado aprendiz, debe recordar que para ingresar a las bases de datos del Sena se ingresa con el número del documento de identidad sin puntos en el campo de usuario y contraseña.</span>
       .col-lg-2
         a.boton.color-acento-botones.mx-auto.indicador__container(

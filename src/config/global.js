@@ -372,7 +372,8 @@ export default {
     {
       referencia:
         'David, F. (2013). Conceptos de administración estratégica. Pearson Educación.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5029&pg=30',
+      link:
+        'https://laurabatres.files.wordpress.com/2018/06/conceptos-de-administracion-estrategica-14edi-david.pdf',
     },
     {
       referencia: 'Diario del Exportador. (2020). Diario del Exportador.',
@@ -384,7 +385,7 @@ export default {
         'Granillo M., R., Hernández L., L., y Santana R. F. (2013). Integración S&OP-CPFR. Congreso Internacional de Logística y Cadena de Suministro. Sanfandila, Querétaro.',
     },
     {
-      referencia: 'ISO. (2020).',
+      referencia: 'ISO. (2020). Standards.',
       link: 'https://www.iso.org/standards.html',
     },
     {
